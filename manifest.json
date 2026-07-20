@@ -1,11 +1,5 @@
  [
   {
-    "titulo": "A Guerra dos Mundos",
-    "categoria": "Ficcao",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz_-o3x9-Sw5IPSS7ITC7KSEtSlRSkOwXubAa-ux7eQ&s",
-    "video": "https://cdnst88.tokyvideo.com/videos/779/779836/mp4/2f1b6f61c04f833a5193ead136945e3d3d69f7b716ffdfa8950aa66761d8130f.mp4?secure=ylbFQFbc2KVhvc4NUVO72w%3D%3D%2C1784386409"
-  },
-  {
     "titulo": "Falcão - Meninos do Tráfico",
     "categoria": "documentarios",
     "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSMadAVRsRc3WBJOJR_FGKVw_KU6SBgOaftWyyYyIyQ&s",
@@ -16,24 +10,6 @@
     "categoria": "documentarios",
     "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BWgAgKNou7PqbpBx70mu9tAX2ZpdLvmAlEfQLJRnyQ&s=10",
     "video": "https://vdn.libreflix.org/video/os-advogados-contra-a-ditadura/os-advogados-contra-a-ditadura.360.mp4"
-  },
-  {
-    "titulo": "Os Bad Boas",
-    "categoria": "comedia",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_rLOgWcStLaeMTih4HK6eam8Hghv8vPELzP9RBiJA&s=10",
-    "video": "https://cdnst85.tokyvideo.com/videos/767/767335/mp4/bb3191174bc6bd62008d7f71b270b3f5b17cb1a5e1bebd545b17c17789ee7d03.mp4?secure=M7zFvT55bpJJeSaad3HjNw%3D%3D%2C1784386708"
-  },
-  {
-    "titulo": "O AGENTE SECRETO",
-    "categoria": "documentarios",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqE2f_yGna4-7P2KYJ6ndzv4Gi92qMqMKys6xetrKlw&s=10",
-    "video": "https://cdnst96.tokyvideo.com/videos/858/858567/mp4/7b68414983e69aced940f6c3c3097da0560e68649124cd6f5949cb483bcff0d2.mp4?secure=b_JeuY6MhxaqxpXoPrqcnQ%3D%3D%2C1784388062"
-  },
-  {
-    "titulo": "SUPERMAN",
-    "categoria": "ficcao",
-    "imagem": "https://th.bing.com/th/id/OIP.q6thKsBRIkOvCUGFebbdBAAAAA?w=115&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
-    "video": "https://cdnst95.tokyvideo.com/videos/853/853984/mp4/03374f2ff35ba24adfbddc706ea4d4e9f7455b195105034f55e9e12ce56055ed.mp4?secure=kanSbEFwKsHMBvoSeOk03g%3D%3D%2C1784388402"
   }
 
 ]
