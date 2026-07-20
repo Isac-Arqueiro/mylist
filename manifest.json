@@ -16,5 +16,36 @@
     "categoria": "documentarios",
     "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/silvio/d743cf25-95d0-44b4-b6a7-7aedcac166ad.webp",
     "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17813697&ext=mp4&name=Silvio&img=http%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2F8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "13 dias no logo da morte",
+    "categoria": "suspense",
+    "imagem": "https://th.bing.com/th/id/OIP.a-WTdUyoy_zqZ7ki-Ns_kQAAAA?w=202&h=303&c=7&r=0&o=7&pid=1.7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17827677&ext=mp4&name=13%20Dias%20no%20Lago%20da%20Morte&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2FlpzEoqapKvczwg9tFeQ07BfZRdy.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Dinheiro suspeito",
+    "categoria": "series",
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.As3ReUxJ3I6YXOF7J5D-EQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17821310&ext=mp4&name=Dinheiro%20Suspeito%20(2026)&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fbm04TGkE5ySrHbHlO6YloYZvs4P.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Policiais da máfia",
+    "categoria": "series",
+    "imagem": "https://media.fstatic.com/LdSA1iXe7Rh7PDHytU9UOy3VW00=/600x889/smart/filters:format(webp)/media/movies/covers/2025/10/download_3_ySVUuO3.jpeg",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17822552&ext=mp4&name=Policiais%20da%20M%C3%A1fia%20(2025)&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FiiXUKaawGuwZoL6RjK9j0c9x1Og.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "C.I.C Central de inteligência cearence",
+    "categoria": "series",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP._kJHT97RueNycL3VXmYzuQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17822896&ext=mp4&name=C.I.C.%20-%20Central%20de%20Intelig%C3%AAncia%20Cearense%20(2025)&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FpRqry4UIbm3De8kfiDj86r9DlBC.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Segredo de verão",
+    "categoria": "series",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/15/35/62/1535628a-5857-04cf-759a-76c76d940be6/mzl.ybczpkem.png/1200x675sr.webp",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17823328&ext=mp4&name=Segredos%20de%20Ver%C3%A3o%20(2023)&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FiiiNvhu2pr52oMggxNhodQUMNAQ.jpg&uid=6a46d2d2a1bc0"
   }
+
 ]
