@@ -10,6 +10,11 @@
     "categoria": "documentarios",
     "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5BWgAgKNou7PqbpBx70mu9tAX2ZpdLvmAlEfQLJRnyQ&s=10",
     "video": "https://vdn.libreflix.org/video/os-advogados-contra-a-ditadura/os-advogados-contra-a-ditadura.360.mp4"
+  },
+  {
+    "titulo": "Silvio santos",
+    "categoria": "documentarios",
+    "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/silvio/d743cf25-95d0-44b4-b6a7-7aedcac166ad.webp",
+    "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17813697&ext=mp4&name=Silvio&img=http%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw600_and_h900_bestv2%2F8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg&uid=6a46d2d2a1bc0"
   }
-
 ]
