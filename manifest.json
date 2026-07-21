@@ -46,6 +46,475 @@
     "categoria": "series",
     "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/15/35/62/1535628a-5857-04cf-759a-76c76d940be6/mzl.ybczpkem.png/1200x675sr.webp",
     "video": "https://embed.bugoumods.com/player.php?type=vod_streams&id=17823328&ext=mp4&name=Segredos%20de%20Ver%C3%A3o%20(2023)&img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FiiiNvhu2pr52oMggxNhodQUMNAQ.jpg&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Inter TV Cabugi",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402304&ext=mp4&name=REDE%20Globo%20Inter%20TV%20Cabugi%20Natal%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMjlf%2Fglobo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Globo Rio",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402315&ext=mp4&name=REDE%20Globo%20RIO%20DE%20Janeiro%20FHD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMjlf%2Fglobo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Globo Amazônas",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402291&ext=mp4&name=REDE%20Globo%20Amaz%C3%B4nica%20Manaus%20FHD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMjlf%2Fglobo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Globo Bahia",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402330&ext=mp4&name=REDE%20Globo%20TV%20Bahia%20FHD%20-%20Sm9ybmFsIE5hY2lvbmFs&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMjlf%2Fglobo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Globo Brasília",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402300&ext=mp4&name=REDE%20Globo%20Brasilia%20FHD%20-%20Sm9ybmFsIE5hY2lvbmFs&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMjlf%2Fglobo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Globo News",
+    "categoria": "canais",
+    "imagem": "https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402964&ext=mp4&name=Globo%20NEWS%20FHD%20-%20R2xvYm9OZXdzIEVtIFBhdXRh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMzJf%2Fglobonews1.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT Ponta Negra",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402774&ext=mp4&name=SBT%20TV%20Ponta%20Negra%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1MDdf%2Fsbt.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT SP",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402788&ext=mp4&name=SBT%20VTV%20SP%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1MDdf%2Fsbt.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT Rio",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402779&ext=mp4&name=SBT%20TV%20RJ%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1MDdf%2Fsbt.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT Kids",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=14502316&ext=mp4&name=SBT%2B%20Kids&img=http%3A%2F%2Fdns.watchplay.top%3A80%2Fimages%2FUn4QOaLwRiP7YnLrYV52zZPdKs33zRKif8AD9EXMtDNRvGpVXnuaOOm1NE1ZBC60espoTO_8WNU97I2qXaescxElhtV7qWKh47HxvrMkAYorPA0l9ycz-niNzXd8J7FU.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT Novelas",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=14502314&ext=mp4&name=SBT%2B%20Novelas&img=http%3A%2F%2Fdns.watchplay.top%3A80%2Fimages%2FUn4QOaLwRiP7YnLrYV52zZPdKs33zRKif8AD9EXMtDNRvGpVXnuaOOm1NE1ZBC60espoTO_8WNU97I2qXaescxElhtV7qWKh47HxvrMkAYorPA0l9ycz-niNzXd8J7FU.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SBT News",
+    "categoria": "canais",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.S-rLntG15IwG-y2U-_GC0wHaHa",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402974&ext=mp4&name=SBT%20News%20HD&img=https%3A%2F%2Fmeuplayer.tv.br%2Flgs_btv%2Fsbt-news.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record News",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402970&ext=mp4&name=Record%20NEWS%20FHD%20-%20Sm9ybmFsIGRhIFJlY29yZA%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0MjNf%2Fpluto-recordnews.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record Rio",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402743&ext=mp4&name=Record%20TV%20RIO%20DE%20Janeiro%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NzNf%2Frecordtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record Tv Tropical",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402756&ext=mp4&name=Record%20TV%20Tropical%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NzNf%2Frecordtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record SP",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402752&ext=mp4&name=Record%20TV%20SP%20HD%20-%20Sm9ybmFsIGRhIFJlY29yZA%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NzNf%2Frecordtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record Manaus",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402732&ext=mp4&name=Record%20TV%20Manaus%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NzNf%2Frecordtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Record Belém",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.3tZwV98Oq4zTrZ29n1LAIgHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402718&ext=mp4&name=Record%20TV%20Belem%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NzNf%2Frecordtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Band Natal",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.31aaa8c298b21b62cdfcf0244ffa8f6c?rik=fJ%2bdhXoSy%2f060w&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402698&ext=mp4&name=BAND%20Natal%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4OTZf%2Fband.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Band SP",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.31aaa8c298b21b62cdfcf0244ffa8f6c?rik=fJ%2bdhXoSy%2f060w&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402707&ext=mp4&name=BAND%20SP%20FHD%20-%20R3VlcnJhIGRhcyBSb3Nhcw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4OTZf%2Fband.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Band Rio",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.31aaa8c298b21b62cdfcf0244ffa8f6c?rik=fJ%2bdhXoSy%2f060w&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402703&ext=mp4&name=BAND%20RIO%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4OTZf%2Fband.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Band Recife",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.31aaa8c298b21b62cdfcf0244ffa8f6c?rik=fJ%2bdhXoSy%2f060w&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402714&ext=mp4&name=BAND%20TV%20Tribuna%20Recife%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4OTZf%2Fband.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Band News",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.31aaa8c298b21b62cdfcf0244ffa8f6c?rik=fJ%2bdhXoSy%2f060w&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402941&ext=mp4&name=BAND%20NEWS%20HD%20-%20Sm9ybmFsIGRhIEJhbmQ%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4OThf%2Fbandnews.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403166&ext=mp4&name=SporTV%201%20HD%20-%20UmFkYXIgZGEgU2VsZcOnw6NvIC0gQW8gVml2bw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2NjZf%2Fsportv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV HD",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403165&ext=mp4&name=SporTV%201%20FHD%20-%20UmFkYXIgZGEgU2VsZcOnw6NvIC0gQW8gVml2bw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2NjZf%2Fsportv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV 2 HD",
+    "categoria": "canais",
+    "imagem": "https://s01.video.glbimg.com/x720/12675052.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403168&ext=mp4&name=SporTV%202%20FHD%20-%20RGlhbW9uZCBMZWFndWUgLSA2wqogRXRhcGEgLSBPc2xvLCBOb3J1ZWdh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2ODJf%2Fsportv2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV 2",
+    "categoria": "canais",
+    "imagem": "https://s01.video.glbimg.com/x720/12675052.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403169&ext=mp4&name=SporTV%202%20HD%20-%20RGlhbW9uZCBMZWFndWUgLSA2wqogRXRhcGEgLSBPc2xvLCBOb3J1ZWdh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2ODJf%2Fsportv2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV 3 HD",
+    "categoria": "canais",
+    "imagem": "https://valisat.com.br/wp-content/uploads/2022/05/SporTV3-1.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403171&ext=mp4&name=SporTV%203%20FHD%20-%20SnVuZ2xlIEZpZ2h0IDE0OSAtIEZpZ2h0IERvIE1pbGjDo28%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2ODNf%2Fsportv3.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SporTV 3",
+    "categoria": "canais",
+    "imagem": "https://valisat.com.br/wp-content/uploads/2022/05/SporTV3-1.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403172&ext=mp4&name=SporTV%203%20HD%20-%20SnVuZ2xlIEZpZ2h0IDE0OSAtIEZpZ2h0IERvIE1pbGjDo28%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NDI2ODNf%2Fsportv3.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Pass 1",
+    "categoria": "canais",
+    "imagem": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?itok=VdAZlWea",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17407185&ext=mp4&name=UFC%20FIGHT%20PASS%201%20HD&img=http%3A%2F%2Fp2vip.xyz%3A80%2Fimages%2F52b233356e2cd2a924c5d700679a0b64.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Pass 2",
+    "categoria": "canais",
+    "imagem": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/image/logos/UFC_FIGHTPASS_LOGO_F.JPG?itok=VdAZlWea",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17407186&ext=mp4&name=UFC%20FIGHT%20PASS%202%20HD&img=http%3A%2F%2Fp2vip.xyz%3A80%2Fimages%2F52b233356e2cd2a924c5d700679a0b64.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Combate HD",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.DLt4gR4RYodFmU9sV4phwwHaHa?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17407187&ext=mp4&name=COMBATE%20FHD&img=http%3A%2F%2Fp2vip.xyz%3A80%2Fimages%2F8743dbd1d692df9f94368d1bb3e8b20f.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Combate",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.DLt4gR4RYodFmU9sV4phwwHaHa?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17407188&ext=mp4&name=COMBATE%20HD&img=http%3A%2F%2Fp2vip.xyz%3A80%2Fimages%2F8743dbd1d692df9f94368d1bb3e8b20f.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "A&E",
+    "categoria": "canais",
+    "imagem": "https://tse1.explicit.bing.net/th/id/OIP.xtWqBPIELVfjAmc2ndRyAAHaEx?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403027&ext=mp4&name=A%26E%20FHD%20-%20UG9sw61jaWEgRW0gQcOnw6Nv&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4NTRf%2Fae.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "A&E",
+    "categoria": "canais",
+    "imagem": "https://tse1.explicit.bing.net/th/id/OIP.xtWqBPIELVfjAmc2ndRyAAHaEx?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403028&ext=mp4&name=A%26E%20HD%20-%20UG9sw61jaWEgRW0gQcOnw6Nv&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4NTRf%2Fae.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "AMC",
+    "categoria": "canais",
+    "imagem": "https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403030&ext=mp4&name=AMC%20FHD%20-%20UGxhbmV0IEFjdGlvbg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4NjRf%2Famc.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "AMC",
+    "categoria": "canais",
+    "imagem": "https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403031&ext=mp4&name=AMC%20HD%20-%20UGxhbmV0IEFjdGlvbg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4NjRf%2Famc.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ANX",
+    "categoria": "canais",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.eAA2mEn3BKQOYkLlLjHzWQHaE8?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403033&ext=mp4&name=AXN%20FHD%20-%20Qy5TLkkuIE1pYW1p&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTkwMDUwMTBf%2Faxn2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ANX",
+    "categoria": "canais",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.eAA2mEn3BKQOYkLlLjHzWQHaE8?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403034&ext=mp4&name=AXN%20HD%20-%20Qy5TLkkuIE1pYW1p&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTkwMDUwMTBf%2Faxn2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "TV BRASIL",
+    "categoria": "canais",
+    "imagem": "https://e7.pngegg.com/pngimages/1010/292/png-clipart-brazil-canal-brasil-television-channel-high-definition-television-logo-brasil-television-text.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403036&ext=mp4&name=Canal%20Brasil%20FHD%20-%20Q3VydGEgTmEgVGVsYTogSmFyZGltIE5vdmEgQmFoaWE%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM5MzZf%2Fcanalbrasil.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "CINEMAX",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.6a02d3b9e6d569e605869f7c0e25b6b8?rik=LVYSRrpswN5fYQ&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403039&ext=mp4&name=Cinemax%20FHD%20-%20RGV0ZXRpdmUgRGVlOiBPcyBRdWF0cm8gUmVpcyBDZWxlc3RpYWlz&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM5ODNf%2Fcinemax.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "CINEMAX",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.6a02d3b9e6d569e605869f7c0e25b6b8?rik=LVYSRrpswN5fYQ&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403040&ext=mp4&name=Cinemax%20HD%20-%20RGV0ZXRpdmUgRGVlOiBPcyBRdWF0cm8gUmVpcyBDZWxlc3RpYWlz&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM5ODNf%2Fcinemax.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "MEGAPIX",
+    "categoria": "canais",
+    "imagem": "https://png.pngitem.com/pimgs/s/663-6634722_megapix-sign-hd-png-download.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403048&ext=mp4&name=Megapix%20FHD%20-%20QSBDaW5jbyBQYXNzb3MgZGUgVm9jw6o%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQyMzJf%2Fmegapix.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SONY",
+    "categoria": "CANAIS",
+    "imagem": "https://i.pinimg.com/736x/02/ca/f6/02caf636d493c514726744a06be779c2.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403051&ext=mp4&name=Canal%20Sony%20FHD%20-%20VGhlIE5hbm55&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1Mjdf%2Fsonychannel.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "SPACE",
+    "categoria": "canais",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.WUMct_7arW5s_IFGkq2yOAHaEK?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403057&ext=mp4&name=Space%20FHD%20-%20VmlhZ2VtIGFvIENlbnRybyBkYSBUZXJyYSAtIE8gRmlsbWU%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1MzNf%2Fspace.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "UNIVERSAL",
+    "categoria": "canais",
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.09yv7TL4y1QTj3Oolau4eAHaEC?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403075&ext=mp4&name=Universal%20Premiere%20FHD%20-%20RXNwb3J0ZXMgUFBWIC0gU2V1IFNlcnZpZG9yIEZhdm9yaXRvLg%3D%3D&img=https%3A%2F%2Fmeuplayer.tv.br%2Flgs_btv%2Funiversal-premiere.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "TELECINE ACTION",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/47/1/telecine-action-logo-png_seeklogo-471031.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403114&ext=mp4&name=Telecine%20Action%20FHD%20-%20QXNzYWx0byBhbyBCYW5jbyBkYSBFc3Bhbmhh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1Njhf%2Ftelecineaction.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "TELECINE CULT",
+    "categoria": "canais",
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.BFfaYEPCpadXLg34yKxu1AAAAA?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403117&ext=mp4&name=Telecine%20Cult%20FHD%20-%20RXUgU291IG8gQW1vcg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTkwMDQ5NDlf%2Ftelecinecult.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "TELECINE FUN",
+    "categoria": "canais",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.HhF66ouCbOttwJNR0u6CoAHaHa?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403121&ext=mp4&name=Telecine%20Fun%20HD%20-%20VW0gUGFuZGEgZW0gQXB1cm9zIDI%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1NzJf%2Ftelecinefun.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "TELECINE PIPOCA",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/65/1/telecine-pipoca-logo-png_seeklogo-656883.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403123&ext=mp4&name=Telecine%20Pipoca%20FHD%20-%20Q2FzYW1lbnRvIGVtIEZhbcOtbGlh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ1NzRf%2Ftelecinepipoca.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "HBO",
+    "categoria": "canais",
+    "imagem": "https://logodix.com/logo/95937.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403090&ext=mp4&name=HBO%20FHD%20-%20TWlzc8OjbyBkZSBTb2JyZXZpdsOqbmNpYQ%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxNThf%2Fhbo.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "HBO 2",
+    "categoria": "canais",
+    "imagem": "https://logospng.org/download/hbo-2/hbo-2-4096.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403093&ext=mp4&name=HBO%202%20FHD%20-%20S2FyYXTDqiBLaWQ6IExlbmRhcw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxNjBf%2Fhbo2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "HBO FAMILY",
+    "categoria": "canais",
+    "imagem": "https://tvsch.com/images/logo/200/hbo-family.webp",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403096&ext=mp4&name=HBO%20Family%20FHD%20-%20TWV1IE1hbHZhZG8gRmF2b3JpdG8gMg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxNjJf%2Fhbofamily.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "HBO POP",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.BaHeNXJiJ_B8rai72hzB2AHaFt?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403105&ext=mp4&name=HBO%20POP%20FHD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxNzFf%2Fhbopop.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Cartoon Network",
+    "categoria": "canais",
+    "imagem": "https://iconape.com/wp-content/png_logo_vector/cartoon-network.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402879&ext=mp4&name=Cartoon%20Network%20FHD%20-%20T3MgSm92ZW5zIFRpdMOjcyBlbSBBw6fDo28%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM5NTdf%2Fcartoonnetwork.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Cartoonnito",
+    "categoria": "canais",
+    "imagem": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402882&ext=mp4&name=Cartoonito%20FHD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM5NTVf%2Fcartoonito.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Discovery Kid",
+    "categoria": "canais",
+    "imagem": "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/DiscoveryKidslogo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402885&ext=mp4&name=Discovery%20Kids%20FHD%20-%20TWVybWljb3JubzogQSBRdWVkYSBkYXMgRXN0cmVsYXM%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwMTdf%2Fdiscoverykids.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Gloobinho",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/50/1/gloobinho-logo-png_seeklogo-505564.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402888&ext=mp4&name=Gloob%20FHD%20-%20VGFyYSBEdW5jYW4%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxMzRf%2Fgloob.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Gloobinho",
+    "categoria": "canais",
+    "imagem": "https://images.seeklogo.com/logo-png/50/1/gloobinho-logo-png_seeklogo-505564.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402892&ext=mp4&name=Gloobinho%20HD%20-%20VFJFWENJ&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg5NzY4MzRf%2Fgloobinho.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ToonCast",
+    "categoria": "canais",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.xRR93tyYh143GEoiTd9WwwHaEK?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402897&ext=mp4&name=Tooncast%20FHD%20-%20RXNxdWFkcsOjbyBkbyBUZW1wbw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ2MTRf%2Ftooncast.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ZooMoo",
+    "categoria": "canais",
+    "imagem": "https://kids.kiddle.co/images/thumb/2/25/ZooMoo_logo.svg/300px-ZooMoo_logo.svg.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402906&ext=mp4&name=Zoomoo%20Kids%20FHD%20-%20TXVyYWx6aW5obw%3D%3D&img=https%3A%2F%2Fmeuplayer.tv.br%2Flgs_btv%2Fzoomoo1.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Animal Planeta",
+    "categoria": "canais",
+    "imagem": "https://logos-world.net/wp-content/uploads/2023/04/Animal-Planet-Logo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402840&ext=mp4&name=Animal%20Planet%20FHD%20-%20UGVzY2EgTW9ydGFs&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4Njhf%2Fanimalplanet.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Discovery Channel",
+    "categoria": "canais",
+    "imagem": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Symbol.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402843&ext=mp4&name=Discovery%20Channel%20FHD%20-%20VmlkYSBSZW1vdGE%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwMTJf%2Fdiscoverychannel.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "H&H",
+    "categoria": "canais",
+    "imagem": "https://i.pinimg.com/originals/41/ff/76/41ff7638a16bf05b7d68118c141c12ba.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402846&ext=mp4&name=Discovery%20Home%20and%20Health%20FHD%20-%20QSBQZXF1ZW5hIEdyYW5kZSBGYW3DrWxpYQ%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxNzZf%2Fheh.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Fish Tv",
+    "categoria": "canais",
+    "imagem": "https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fishtv.jpg/revision/latest?cb=20170701235958&path-prefix=pt-br",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402861&ext=mp4&name=Fish%20TV%20FHD%20-%20QWx0YSBQZXJmb3JtYW5jZQ%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwODZf%2Ffishtv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "History",
+    "categoria": "canais",
+    "imagem": "https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2015.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402870&ext=mp4&name=History%20FHD%20-%20SW5leHBsaWPDoXZlbA%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxODRf%2Fhistory.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "History 2",
+    "categoria": "canais",
+    "imagem": "https://voxnews.com.br/wp-content/uploads/2022/02/H2-FLAT-RGB.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402867&ext=mp4&name=History%202%20FHD%20-%20R3JhbmRlcyBNaXN0w6lyaW9zIGRhIEhpc3TDs3JpYSBDb20gTGF1cmVuY2UgRmlzaGJ1cm5l&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQxODZf%2Fhistory2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Arte1",
+    "categoria": "canais",
+    "imagem": "https://static.wikia.nocookie.net/tvpediabrasil/images/7/70/Arte1.jpg/revision/latest?cb=20170731214245&path-prefix=pt-br",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402979&ext=mp4&name=ARTE%201%20FHD%20-%20TcO6c2ljYSBlIFBvZXNpYTogQWxpY2UgU2FudCdBbm5h&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjM4ODVf%2Farte1.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Food Network",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.135d37f7816fc172191b3dca59527b08?rik=S20XMd8CuPU8GQ&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17402994&ext=mp4&name=FOOD%20Network%20FHD%20-%20QSBHdWVycmEgZG9zIEJvbG9z&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwOTFf%2Ffoodnetwork.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Mult Show",
+    "categoria": "canais",
+    "imagem": "https://logospng.org/download/multishow/multishow-2048.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403006&ext=mp4&name=Multishow%20FHD%20-%20QSBWaWxh&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQyNTFf%2Fmultishow.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Cazé TV 1",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.dfjTxNlep7pOVDJiha00igHaHa?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403205&ext=mp4&name=Caz%C3%A9%20TV%201%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg2NDIzNjRf%2Fcazetv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Cazé TV 2",
+    "categoria": "canais",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.dfjTxNlep7pOVDJiha00igHaHa?r=0&cb=thfc1falcon4&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403206&ext=mp4&name=Caz%C3%A9%20TV%202%20HD&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg2NDIzNjRf%2Fcazetv.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Premiere Clube",
+    "categoria": "canais",
+    "imagem": "https://cdn.mitvstatic.com/channels/br_premiere-fc_m.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403190&ext=mp4&name=Premiere%20Clubes%20FHD%20-%20RXNwb3J0ZXMgUFBWIC0gU2V1IFNlcnZpZG9yIEZhdm9yaXRvLg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NThf%2Fpremiereclubes.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Premiere 2",
+    "categoria": "canais",
+    "imagem": "https://i.pinimg.com/736x/45/85/75/45857537421cf0f7c7b1aab9b2ea6f9b.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403174&ext=mp4&name=Premiere%202%20FHD%20-%20RXNwb3J0ZXMgUFBWIC0gU2V1IFNlcnZpZG9yIEZhdm9yaXRvLg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NTZf%2Fpremiere1.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "Premiere 3",
+    "categoria": "canais",
+    "imagem": "https://i.pinimg.com/originals/c5/29/42/c5294287f602cc0c0418c78cca42d713.jpg",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403179&ext=mp4&name=Premiere%203%20SD%20-%20RXNwb3J0ZXMgUFBWIC0gU2V1IFNlcnZpZG9yIEZhdm9yaXRvLg%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQ0NTZf%2Fpremiere1.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ESPN",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.7038303ab0c71beef47d4f4eb6341560?rik=g%2fH7XMabshQHcg&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403147&ext=mp4&name=ESPN%20FHD%20-%20RiBTaG93IC0gQW8gVml2bw%3D%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwNThf%2Fespn.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ESPN 2",
+    "categoria": "canais",
+    "imagem": "https://iconape.com/wp-content/png_logo_vector/espn2-logo.png",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403150&ext=mp4&name=ESPN%202%20FHD%20-%20VMOqbmlzOiBXaW1ibGVkb24gMjAyNiAtIEFvIFZpdm8%3D&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwNTlf%2Fespn2.png&uid=6a46d2d2a1bc0"
+  },
+  {
+    "titulo": "ESPN 3",
+    "categoria": "canais",
+    "imagem": "https://thf.bing.com/th/id/R.6151f759c678e0f0e5c9f3282ce52be4?rik=3srHGM0G3w7csQ&pid=ImgRaw&r=0",
+    "video": "https://embed.bugoumods.com/player.php?type=live_streams&id=17403153&ext=mp4&name=ESPN%203%20FHD%20-%20U3BvcnRzY2VudGVy&img=https%3A%2F%2Fod.lk%2Fs%2FNzdfNTg1NjQwNjBf%2Fespn3.png&uid=6a46d2d2a1bc0"
   }
+
 
 ]
