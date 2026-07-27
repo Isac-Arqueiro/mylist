@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+http://tv.mapfibra.com.br:8555/live/1113/123456/282.m3u8 
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/45.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus HD
