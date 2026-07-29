@@ -1,11 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
-http://tv.mapfibra.com.br:8555/live/1113/123456/282.m3u8 
+http://tv.mapfibra.com.br:8555/live/1113/123456/282.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/45.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus HD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/46.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/57.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD
@@ -16,12 +18,17 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/69.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/70.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1699.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super SD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1700.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super http://tv.mapfibra.com.br:8555/live/1113/123456/310.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1690.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1691.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
+http://tv.mapfibra.com.br:8555/live/1113/123456/285.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
+https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV Mais HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1693.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD
@@ -34,24 +41,37 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1719.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1720.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/399.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND
+http://tv.mapfibra.com.br:8555/live/1113/123456/276.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/400.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND
+http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Belém HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/401.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Bauru HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1630.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Bauru SD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1631.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1668.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/451.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/452.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="C • Documentários",Animal Planet FHD
+http://tv.mapfibra.com.br:8555/live/1113/123456/291.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentariosbp",Animal Planet FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/463.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/464.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel FHD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/466.m3u8
+http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel http://dns.fontedecanais.com.br:80/live/playercodestv/947942/466.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/468.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzZf/heh.png" group-title="documentario",Discovery Home and Health FHD
@@ -108,6 +128,12 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2364.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2375.m3u8
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="joveminfantil",Zoomoo Kids HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2376.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/The_Jetsons_%28television_series_logo%29.png" group-title="joveminfantil",Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" group-title="joveminfantil",Mr. Bean
+https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="joveminfantil",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="religioso",REDE VIDA HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1787.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="religioso",REDE VIDA SD
@@ -128,29 +154,39 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2316.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2324.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2325.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedades",ARTE 1 FHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="neews",SBT NEWS
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/thumbnail.jpg" group-title="variedades",Sony One Shark Tank
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/jazz-music-live-logo-template-260nw-2254460787.jpg" group-title="variedades",JAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/jazz-music-live-logo-template-260nw-2254460787.jpg" group-title="variedades",JAZZ 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW2aYO9o55MaV7N55EdHufbd7IgeLtnZlGA&s" group-title="variedades",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedadess",ARTE 1 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1887.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedades",ARTE 1 HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedadess",ARTE 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1888.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedadess",BIS FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1890.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedadess",BIS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1891.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedadess",Curta FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1896.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedadess",Curta HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1897.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedadess",E! FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1899.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedadess",E! HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1900.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedadess",FOOD Network FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1905.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedadess",FOOD Network HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1906.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedades",Multishow FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedadess",Multishow FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1923.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedades",Multishow HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedadess",Multishow HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1924.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/555.m3u8
@@ -367,12 +403,16 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/665.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/666.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1960.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 2 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1961.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 3 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1962.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV Youtube HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1959.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV Youtube HD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="esportes",Disney PLUS 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1970.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="esportes",Disney PLUS 2 HD
@@ -397,9 +437,102 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2012.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2013.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="esportes",Paramount+ Sports 4 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2014.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST FHD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedadess",Receitas FAST FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/546.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST HD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/547.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST SD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedadess",Receitas FAST HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedadess",Receitas FAST SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/548.m3u8
+#EXTINF:-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/1200px-Logo_GE_TV.svg.png" group-title="esporte", GeTv
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="esporte", Desimpedidos
+https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="esporte",FIFA
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="nostalgia",Sésrie Clássicas
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
+#EXTINF:-1 tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="nostalgia",Django
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/mr-bean-logo-mr-bea-11563004365gokvge016x.png" group-title="nostalgia",Mr. Bean
+https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4f/Logotipo_de_Malha%C3%A7%C3%A3o_%282002-2005%29.png" group-title="nostalgia",Malhação
+https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="nostalgia", RATIMBUM
+http://tv.mapfibra.com.br:8555/live/1012/123456/284.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="nostalgia", RATIMBUM
+http://tv.mapfibra.com.br:8555/live/1021/123456/284.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBvWmNhovI0_4glH-5bqNd2vksDJg69fJo6PuUfjkzZERUVmq3Vr5X6o&s=10" group-title="nostalgia",Chespirito
+http://tv.mapfibra.com.br:8555/live/1113/123456/306.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFPvD-9bZ7KbbHM9DxMZ8nE5gXmNGw6CQCSDSdh5vzA&s=10"group-title="nostalgia",Playpoca Filmes
+http://tv.mapfibra.com.br:8555/live/1113/123456/326.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFPvD-9bZ7KbbHM9DxMZ8nE5gXmNGw6CQCSDSdh5vzA&s=10"group-title="nostalgia",Playpoca Séries
+http://tv.mapfibra.com.br:8555/live/1113/123456/327.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFPvD-9bZ7KbbHM9DxMZ8nE5gXmNGw6CQCSDSdh5vzA&s=10"group-title="nostalgia",Playpoca Séries 2
+http://tv.mapfibra.com.br:8555/live/1113/123456/307.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NTNf/tvcultura.png" group-title="variedades",TV Cultura 
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1747.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NTNf/tvcultura.png" group-title="variedades",TV Cultura 
+http://tv.mapfibra.com.br:8555/live/1113/123456/318.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem Pan News
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2326.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem Pan News
+http://tv.mapfibra.com.br:8555/live/1113/123456/308.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Nzhf/aparecidatv.png" group-title="religioso",TV Aparecida HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1793.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Nzhf/aparecidatv.png" group-title="religioso",TV Aparecida HD
+http://tv.mapfibra.com.br:8555/live/1113/123456/293.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="religioso",REDE GENEÊS
+http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="religioso",REDE GENEÊS
+http://tv.mapfibra.com.br:8555/live/1021/123456/287.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="religioso",REDE BOAS NOVAS
+https://video09.logicahost.com.br/redefamilia/redefamilia/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXceWg2SHVCXueLboeuODsCkgTK5mL9B2YWA&s" group-title="religioso",Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="religioso",Novo Tempo
+http://tv.mapfibra.com.br:8555/live/1012/123456/302.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="religioso",Novo Tempo
+http://tv.mapfibra.com.br:8555/live/1021/123456/302.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="religioso",RIT TV 
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="religioso",RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova 
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova 
+http://tv.mapfibra.com.br:8555/live/1012/123456/278.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova 
+http://tv.mapfibra.com.br:8555/live/1021/123456/278.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="religioso",TV Universal 
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="religioso",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="religioso",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="religioso",Rede Vida
+http://tv.mapfibra.com.br:8555/live/1012/123456/290.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="religioso",Rede Vida
+http://tv.mapfibra.com.br:8555/live/1021/123456/290.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="religioso",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="religioso",APARECIDA
+http://tv.mapfibra.com.br:8555/live/1012/123456/293.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="religioso",APARECIDA
+http://tv.mapfibra.com.br:8555/live/1021/123456/293.m3u8 
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="religioso",TV Maná
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i0hb0rx94NvA7eJnfUUMVBITBNp3cNCQag&s" group-title="religioso",Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i0hb0rx94NvA7eJnfUUMVBITBNp3cNCQag&s" group-title="religioso",Evangelizar
+http://tv.mapfibra.com.br:8555/live/1012/123456/316.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i0hb0rx94NvA7eJnfUUMVBITBNp3cNCQag&s" group-title="religioso",Evangelizar
+http://tv.mapfibra.com.br:8555/live/1021/123456/316.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="religioso",PAI ETERNO
+http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="religioso",PAI ETERNO
+http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8 
+
