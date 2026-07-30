@@ -127,10 +127,14 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/484.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/485.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 f3
 http://190.83.85.68/history/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 g1
+http://190.83.2.180:8090/HISTORYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/490.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 f3
 http://190.83.85.68/h2/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 g1
+http://190.83.2.180:8090/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/491.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTVf/discoveryid.png" group-title="documentario",ID Investigacao Discovery FHD
@@ -249,6 +253,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/564.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/565.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/570.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax g1
+http://190.83.2.180:8090/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/571.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD f3
@@ -320,14 +326,20 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/623.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/624.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO f3
 http://190.83.85.68/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO g1
+http://190.83.2.180:8090/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/625.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/627.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 g1
+http://190.83.2.180:8090/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 f3
 http://190.83.85.68/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/628.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family g1
+http://190.83.2.180:8090/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/630.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family f3
@@ -504,10 +516,6 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/546.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/548.m3u8
-#EXTINF:-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/1200px-Logo_GE_TV.svg.png" group-title="esportes", GeTv
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="esportes", Desimpedidos
-https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="esportes",FIFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
