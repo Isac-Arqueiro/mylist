@@ -472,7 +472,7 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1961.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1962.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV Youtube HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1959.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV Youtube HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="esportes",Disney PLUS 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1970.m3u8
@@ -504,11 +504,11 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/546.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/548.m3u8
-#EXTINF:-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/1200px-Logo_GE_TV.svg.png" group-title="esporte", GeTv
+#EXTINF:-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/1200px-Logo_GE_TV.svg.png" group-title="esportes", GeTv
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="esporte", Desimpedidos
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/460d91174548417.Y3JvcCwxMDc5LDg0NCw2MSww.png" group-title="esportes", Desimpedidos
 https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_h265.m3u8
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="esporte",FIFA
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="esportes",FIFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
