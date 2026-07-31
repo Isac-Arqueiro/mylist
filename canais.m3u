@@ -322,8 +322,6 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/617.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/622.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" group-title="filmesesereis",Warner Channel SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/623.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLqKtyu1cfyp2nzz0GXYypGkBm0F84nOfnVQdnQrfTw&s=10" group-title="filmesesereis",Filme Brasil evang.
-https://cdnst97.tokyvideo.com/videos/895/895569/mp4/4fdace0d171d3b98bd55c59c711438b27fe779adaa4af885fb78f75efa7a15ab.mp4?secure=OylFVTDgMzdmwM_uXBv3LQ%3D%3D%2C1785523786
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/624.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO f3
