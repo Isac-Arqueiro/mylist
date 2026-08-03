@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
 http://tv.mapfibra.com.br:8555/live/1113/123456/282.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f1
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus FHD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/45.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal FHD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/57.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/58.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro FHD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/69.m3u8
-#EXTINF:-1 tvg-id="globo"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/70.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1699.m3u8
