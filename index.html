@@ -1,8 +1,1930 @@
-[
-  {
-    "titulo": "A Guerra dos Mundos",
-    "categoria": "Ficção",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz_-o3x9-Sw5IPSS7ITC7KSEtSlRSkOwXubAa-ux7eQ&s",
-    "video": "https://cdnst88.tokyvideo.com/videos/779/779836/mp4/2f1b6f61c04f833a5193ead136945e3d3d69f7b716ffdfa8950aa66761d8130f.mp4?secure=ylbFQFbc2KVhvc4NUVO72w%3D%3D%2C1784386409"
-  }
-]
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cinema Online</title>
+
+<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#111;
+    color:#fff;
+}
+
+header{
+    background:#000;
+    color:#ff0000;
+    padding:15px;
+    font-size:28px;
+    font-weight:bold;
+    text-align:center;
+}
+
+
+.layout{
+
+    display:flex;
+    height:calc(100vh - 70px);
+    overflow:hidden;
+
+}
+
+
+/* MENU */
+
+.menuLateral{
+
+    width:240px;
+    background:#0d0d0d;
+    padding:15px;
+    overflow-y:auto;
+    border-right:1px solid #222;
+
+}
+
+
+.menuItem{
+
+    padding:14px;
+    margin-bottom:8px;
+    border-radius:8px;
+    background:#1a1a1a;
+    cursor:pointer;
+    font-size:18px;
+    transition:.2s;
+
+}
+
+
+.menuItem.active{
+
+    background:#0078ff;
+    font-weight:bold;
+
+}
+
+
+.menuItem.focus{
+
+    outline:4px solid #00bfff;
+    background:#006eff;
+    transform:scale(1.05);
+
+}
+
+
+.menuItem:hover{
+
+    background:#0060d0;
+
+}
+
+
+/* CONTEÚDO */
+
+.conteudo{
+
+    flex:1;
+    display:flex;
+    overflow:hidden;
+
+}
+
+/* COLUNA DE CANAIS */
+
+.listaCanais{
+
+    width:330px;
+    background:#181818;
+    border-right:1px solid #333;
+
+    display:flex;
+    flex-direction:column;
+
+}
+
+/* COLUNA DO PLAYER */
+
+.playerArea{
+
+    flex:1;
+
+    display:flex;
+
+    flex-direction:column;
+
+    background:#000;
+
+}
+
+
+/* PLAYER */
+
+.player{
+
+    flex:1;
+
+    padding:15px;
+
+    background:#000;
+
+}
+
+
+.player video{
+
+    width:100%;
+    height:auto;
+    background:#000;
+    border-radius:10px;
+
+}
+
+
+.player iframe{
+
+    width:100%;
+    height:320px;
+    display:none;
+    border-radius:10px;
+
+}
+
+/* TÍTULOS DAS COLUNAS */
+
+.tituloColuna{
+
+    background:#000;
+
+    padding:14px;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    text-align:center;
+
+    border-bottom:1px solid #333;
+
+}
+
+/* LISTA DOS CANAIS */
+
+#listaCanais{
+
+    flex:1;
+
+    overflow-y:auto;
+
+}
+
+/* ITEM DO CANAL */
+
+.canal{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+    padding:12px;
+
+    cursor:pointer;
+
+    border-bottom:1px solid #2b2b2b;
+
+    transition:.2s;
+
+}
+
+.canal:hover{
+
+    background:#006eff;
+
+}
+
+.canal.active{
+
+    background:#0078ff;
+
+}
+
+.canal.focus{
+
+    outline:4px solid #00bfff;
+
+}
+
+.canal img{
+
+    width:60px;
+
+    height:60px;
+
+    object-fit:contain;
+
+    background:#000;
+
+    border-radius:8px;
+
+}
+
+.canal span{
+
+    font-size:18px;
+
+    color:#fff;
+
+}
+
+.favorito{
+
+    background:none;
+
+    border:none;
+
+    color:gold;
+
+    font-size:24px;
+
+    cursor:pointer;
+
+}
+
+/* GRID */
+
+.grid{
+
+    flex:1;
+    overflow-y:auto;
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fill,minmax(220px,1fr));
+
+    gap:18px;
+
+    padding:20px;
+
+}
+
+
+/* CARDS */
+
+.card{
+
+    background:#1b1b1b;
+
+    border-radius:10px;
+
+    overflow:hidden;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+    border:3px solid transparent;
+
+}
+
+
+.card:hover{
+
+    transform:scale(1.04);
+    border-color:#0078ff;
+
+}
+
+
+.card.focus{
+
+    outline:5px solid #00bfff;
+    transform:scale(1.08);
+    z-index:5;
+
+}
+
+
+.card img{
+
+    width:100%;
+    height:300px;
+    object-fit:cover !important;
+
+}
+
+
+.card h3{
+
+    padding:12px;
+    font-size:18px;
+    text-align:center;
+
+}
+
+
+/* RESPONSIVO */
+
+@media(max-width:1200px){
+
+.grid{
+    grid-template-columns:repeat(4,1fr);
+}
+
+}
+
+
+@media(max-width:900px){
+
+.grid{
+    grid-template-columns:repeat(3,1fr);
+}
+
+}
+
+
+@media(max-width:600px){
+
+.grid{
+    grid-template-columns:repeat(2,1fr);
+}
+
+
+.card img{
+
+    height:220px;
+
+}
+
+}
+
+
+/* BARRA ROLAGEM */
+
+::-webkit-scrollbar{
+
+    width:10px;
+
+}
+
+
+::-webkit-scrollbar-thumb{
+
+    background:#444;
+    border-radius:10px;
+
+}
+
+
+::-webkit-scrollbar-track{
+
+    background:#111;
+
+}
+
+/* vídeo em tela cheia */
+.plyr--fullscreen-active video,
+.plyr--fullscreen-active .plyr__video-wrapper video {
+    width:100%;
+    height:100%;
+    max-height:none;
+    object-fit:cover !important;
+}
+
+
+/* container do player em fullscreen */
+.plyr--fullscreen-active .plyr__video-wrapper {
+    height:100vh;
+}
+
+
+/* remove bordas no fullscreen */
+.plyr--fullscreen-active video {
+    border-radius:0;
+}
+
+/* LOGIN */
+
+#telaLogin{
+
+    position:fixed;
+
+    top:0;
+    left:0;
+
+    width:100%;
+    height:100%;
+
+    background:#111;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    z-index:9999;
+
+}
+
+
+.caixaLogin{
+
+    background:#000;
+
+    padding:40px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    width:350px;
+
+}
+
+
+.caixaLogin h1{
+
+    color:#ff0000;
+
+    margin-bottom:20px;
+
+}
+
+
+.caixaLogin h2{
+
+    color:white;
+
+    margin-bottom:20px;
+
+}
+
+
+#senhaDigitada{
+
+    width:100%;
+
+    padding:15px;
+
+    font-size:20px;
+
+    border-radius:8px;
+
+    border:none;
+
+    margin-bottom:15px;
+
+}
+
+
+#botaoEntrar,
+#botaoSaber{
+
+    width:100%;
+
+    padding:15px;
+
+    margin-top:10px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#0078ff;
+
+    color:white;
+
+    font-size:20px;
+
+    cursor:pointer;
+
+}
+
+
+#botaoSaber{
+
+    background:#444;
+
+}
+
+
+#mensagemLogin{
+
+    color:red;
+
+    margin-top:15px;
+
+}
+
+</style>
+
+</head>
+<body>
+<div id="telaLogin">
+
+    <div class="caixaLogin">
+
+        <h1>🎬 My Family Tv</h1>
+
+        <h2>Digite sua senha</h2>
+
+        <input 
+        type="password" 
+        id="senhaDigitada"
+        placeholder="Senha">
+
+        <button id="botaoEntrar">
+            ENTRAR
+        </button>
+
+        <p id="mensagemLogin"></p>
+
+        <button id="botaoSaber">
+            Saber +
+        </button>
+
+    </div>
+
+</div>
+
+<header>
+
+🎬 My Family Tv
+
+</header>
+
+
+<div class="layout">
+
+
+    <div class="menuLateral">
+
+        <div class="menuItem" data-cat="favoritos">
+⭐ Favoritos
+</div>
+
+        <div class="menuItem active" data-cat="todos">
+            Todos
+        </div>
+
+
+        <div class="menuItem" data-cat="globo">
+            Globo
+        </div>
+
+
+        <div class="menuItem" data-cat="religioso">
+            Religioso
+        </div>
+
+
+        <div class="menuItem" data-cat="canaisabertos">
+            Canais Abertos
+        </div>
+
+
+        <div class="menuItem" data-cat="band">
+            Band
+        </div>
+
+
+        <div class="menuItem" data-cat="record">
+            Record
+        </div>
+
+
+        <div class="menuItem" data-cat="sbt">
+            SBT
+        </div>
+
+
+        <div class="menuItem" data-cat="documentario">
+            Documentários
+        </div>
+
+
+        <div class="menuItem" data-cat="joveminfantil">
+            Jovem Infantil
+        </div>
+
+
+         <div class="menuItem" data-cat="nostalgia">
+            Nostalgia
+        </div>
+
+
+        <div class="menuItem" data-cat="news">
+            News
+        </div>
+
+
+        <div class="menuItem" data-cat="variedades">
+            Variedades
+        </div>
+
+
+        <div class="menuItem" data-cat="filmesesereis">
+            Filmes e Séries
+        </div>
+
+
+        <div class="menuItem" data-cat="hbo">
+            HBO
+        </div>
+
+
+        <div class="menuItem" data-cat="telecine">
+            Telecine
+        </div>
+
+
+        <div class="menuItem" data-cat="esportes">
+            Esportes
+        </div>
+
+
+        <div class="menuItem" data-cat="sportv">
+            SporTV
+        </div>
+
+
+        <div class="menuItem" data-cat="premiere">
+            Premiere
+        </div>
+
+
+        <div class="menuItem" data-cat="caze">
+            Cazé
+        </div>
+
+
+
+        <button id="atualizarLista">
+
+            🔄 Atualizar Lista
+
+        </button>
+
+
+
+    </div>
+
+
+
+ <div class="conteudo">
+
+    <div class="listaCanais">
+
+        <div class="tituloColuna">
+            CANAIS
+        </div>
+
+        <div id="listaCanais">
+
+        </div>
+
+    </div>
+
+    <div class="playerArea">
+
+        <div class="tituloColuna">
+            PLAYER
+        </div>
+
+        <div class="player">
+
+            <video
+                id="videoPlayer"
+                playsinline
+                controls
+                preload="metadata">
+            </video>
+
+            <iframe
+                id="iframePlayer"
+                allowfullscreen
+                allow="autoplay; fullscreen">
+            </iframe>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+</div>
+
+
+
+<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.2/dist/hls.min.js"></script>
+<script>
+
+// ===============================
+// LOGIN POR SENHA
+// ===============================
+
+
+// ===============================
+// LOGIN
+// ===============================
+
+
+const enderecoSenha =
+"https://raw.githubusercontent.com/Isac-Arqueiro/mylist/main/senhas.json?v=" + Date.now();
+
+
+let senhasValidas = [];
+
+
+async function carregarSenha(){
+
+    try{
+
+        let resposta = await fetch(enderecoSenha);
+
+
+        let dados = await resposta.json();
+
+
+        senhasValidas = dados;
+
+
+        verificarLogin();
+
+
+    }catch(erro){
+
+        document.getElementById("mensagemLogin").innerHTML =
+        "Erro ao carregar senha";
+
+        console.log(erro);
+
+    }
+
+}
+
+
+
+function verificarLogin(){
+
+    let senhaSalva =
+    localStorage.getItem("senhaMyFamily");
+
+
+    if(!senhaSalva){
+
+        return;
+
+    }
+
+
+    if(
+        senhasValidas.indexOf(senhaSalva) !== -1
+    ){
+
+        liberarAcesso();
+
+
+    }else{
+
+
+        localStorage.removeItem("senhaMyFamily");
+
+
+        document
+        .getElementById("telaLogin")
+        .style.display="flex";
+
+
+        document
+        .getElementById("mensagemLogin")
+        .innerHTML =
+        "Sua senha expirou. Digite a nova senha.";
+
+    }
+
+}
+
+
+
+function liberarAcesso(){
+
+    document
+    .getElementById("telaLogin")
+    .style.display="none";
+
+}
+
+
+
+document
+.getElementById("botaoEntrar")
+.onclick=function(){
+
+
+    let digitada =
+    document
+    .getElementById("senhaDigitada")
+    .value
+    .trim();
+
+
+
+    if(
+        senhasValidas.includes(digitada.toUpperCase())
+    ){
+
+
+        localStorage.setItem(
+            "senhaMyFamily",
+            digitada
+        );
+
+
+        liberarAcesso();
+
+
+    }else{
+
+
+        document
+        .getElementById("mensagemLogin")
+        .innerHTML =
+        "Senha incorreta ou expirada";
+
+
+    }
+
+
+};
+
+
+
+document
+.getElementById("botaoSaber")
+.onclick=function(){
+
+
+    window.open(
+    "https://sites.google.com/view/firmaracordo/in%C3%ADcio",
+    "_blank"
+    );
+
+
+};
+
+
+
+carregarSenha();
+const enderecoRAW =
+"https://raw.githubusercontent.com/Isac-Arqueiro/mylist/master/canais.m3u";
+
+const enderecoEPG =
+"http://dnsprivada1.live/xmltv.php?username=966188&password=MGcn7B";
+
+let dadosEPG = [];
+
+
+
+const videoPlayer = document.getElementById("videoPlayer");
+
+const iframePlayer = document.getElementById("iframePlayer");
+
+
+
+const player = new Plyr(videoPlayer,{
+
+    fullscreen:{
+        enabled:true
+    },
+
+    controls:[
+
+        'play-large',
+        'play',
+        'progress',
+        'current-time',
+        'mute',
+        'volume',
+        'settings',
+        'pip',
+        'fullscreen'
+
+    ]
+
+});
+
+// Esconde os controles ao iniciar
+player.toggleControls(false);
+
+let hls = null;
+
+
+
+// ===============================
+// ABRIR CANAL
+// ===============================
+
+
+function trocar(url){
+
+
+    if(!url){
+        return;
+    }
+
+
+
+    iframePlayer.style.display="none";
+
+    iframePlayer.src="";
+
+
+
+    videoPlayer.style.display="block";
+
+
+
+    if(hls){
+
+        hls.destroy();
+
+        hls=null;
+
+    }
+
+
+
+    if(url.includes(".m3u8")){
+
+
+        if(Hls.isSupported()){
+
+
+            hls=new Hls({
+
+                enableWorker:true,
+
+                lowLatencyMode:true
+
+            });
+
+
+
+            hls.loadSource(url);
+
+            hls.attachMedia(videoPlayer);
+
+
+
+            hls.on(
+                Hls.Events.MANIFEST_PARSED,
+                ()=>{
+
+                    videoPlayer.play();
+
+                }
+            );
+
+
+
+        }
+
+
+        else if(
+            videoPlayer.canPlayType(
+            "application/vnd.apple.mpegurl")
+        ){
+
+
+            videoPlayer.src=url;
+
+            videoPlayer.play();
+
+
+        }
+
+
+        return;
+
+    }
+
+
+
+    videoPlayer.src=url;
+
+    videoPlayer.load();
+
+    videoPlayer.play();
+
+
+
+}
+
+
+
+// ===============================
+// CARREGAR LISTA
+// ===============================
+
+
+
+function carregarFilmes(){
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.onreadystatechange = function(){
+
+        if(xhr.readyState == 4){
+
+            if(xhr.status == 200){
+
+                var texto = xhr.responseText;
+
+                var lista = [];
+
+                if(texto.replace(/^\s+|\s+$/g,'').indexOf("[") == 0){
+
+                    lista = JSON.parse(texto);
+
+                }else if(texto.indexOf("#EXTM3U") >= 0){
+
+                    lista = converterM3U(texto);
+
+                }
+
+                mostrarLista(lista);
+
+            }else{
+
+                console.log("Erro ao carregar lista");
+
+            }
+
+        }
+
+    };
+
+    xhr.open("GET", enderecoRAW + "?v=" + new Date().getTime(), true);
+
+    xhr.send();
+
+}
+
+// ===============================
+// MOSTRAR CARDS
+// ===============================
+
+
+
+let listaCompleta = [];
+let favoritos = JSON.parse(localStorage.getItem("favoritos")) || [];
+function mostrarLista(lista){
+
+    listaCompleta = lista;
+
+    atualizarListaCanais();
+
+}
+
+function salvarFavoritos() {
+    localStorage.setItem("favoritos", JSON.stringify(favoritos));
+}
+
+function ehFavorito(video) {
+    return favoritos.includes(video);
+}
+
+function alternarFavorito(video) {
+
+    if (ehFavorito(video)) {
+        favoritos = favoritos.filter(v => v !== video);
+    } else {
+        favoritos.push(video);
+    }
+
+    salvarFavoritos();
+
+    atualizarListaCanais();
+}
+function atualizarListaCanais(){
+
+    const listaDiv = document.getElementById("listaCanais");
+
+    listaDiv.innerHTML = "";
+
+    let canais = listaCompleta;
+
+    if(categoriaAtual === "favoritos"){
+
+    canais = canais.filter(canal =>
+        favoritos.includes(canal.video)
+    );
+
+}
+else if(categoriaAtual !== "todos"){
+
+    canais = canais.filter(canal =>
+        canal.categoria === categoriaAtual
+    );
+
+}
+
+    canais.forEach(canal=>{
+
+        const item = document.createElement("div");
+
+        item.className = "canal";
+
+        item.dataset.video = canal.video;
+
+        item.innerHTML = `
+
+<img src="${canal.imagem}">
+
+<span style="flex:1">${canal.titulo}</span>
+
+<button class="favorito">
+${ehFavorito(canal.video) ? "⭐" : "☆"}
+</button>
+
+`;
+const botao = item.querySelector(".favorito");
+
+botao.onclick = function(e){
+
+    e.stopPropagation();
+
+    alternarFavorito(canal.video);
+
+};
+
+        item.onclick = function(){
+
+            document
+            .querySelectorAll(".canal")
+            .forEach(c=>c.classList.remove("active"));
+
+            this.classList.add("active");
+   
+            console.log("Título:", canal.titulo);
+console.log("TVG-ID:", canal.tvgid);
+            trocar(canal.video);
+
+        };
+
+        listaDiv.appendChild(item);
+
+});
+
+const primeiro = document.querySelector(".canal");
+
+if(primeiro){
+
+    primeiro.classList.add("active");
+
+    trocar(primeiro.dataset.video);
+
+}
+}
+
+
+// ===============================
+// CONVERSOR M3U
+// ===============================
+
+
+
+function converterM3U(m3u){
+
+
+
+const linhas=m3u.split(/\r?\n/);
+
+
+
+const lista=[];
+
+
+
+let titulo="";
+
+let imagem="";
+
+let categoria="";
+let tvgid="";
+
+
+
+for(
+let i=0;
+i<linhas.length;
+i++
+){
+
+
+
+let linha=linhas[i].trim();
+
+
+
+if(
+linha.startsWith("#EXTINF")
+){
+
+
+
+let nome=
+linha.match(/,(.*)$/);
+
+
+
+titulo=
+nome ? nome[1] : "Sem título";
+
+
+
+let logo=
+linha.match(/tvg-logo="([^"]*)"/);
+
+
+
+imagem=
+logo ?
+logo[1]
+:
+"https://via.placeholder.com/300x450?text=SEM+CAPA";
+
+
+
+let grupo=
+linha.match(/group-title="([^"]*)"/);
+let idEPG =
+linha.match(/tvg-id="([^"]*)"/);
+
+tvgid =
+idEPG ? idEPG[1].trim() : "";
+
+categoria=
+grupo ?
+grupo[1]
+.replace("C •","")
+.trim()
+.toLowerCase()
+:
+"canais";
+let id =
+linha.match(/tvg-id="([^"]*)"/);
+
+tvgid =
+id ? id[1] : "";
+
+
+
+}
+
+
+
+else if(
+linha &&
+linha.startsWith("http")
+){
+
+
+
+lista.push({
+
+titulo,
+
+imagem,
+
+video:
+linha.split("|")[0].trim(),
+
+categoria,
+
+tvgid
+
+});
+
+
+
+}
+
+
+
+}
+
+
+
+return lista;
+
+
+
+}
+
+function carregarEPG(){
+
+fetch(enderecoEPG)
+
+.then(res => res.text())
+
+.then(xml => {
+
+let parser = new DOMParser();
+
+let documento = parser.parseFromString(
+xml,
+"text/xml"
+);
+
+
+let programas =
+documento.querySelectorAll("programme");
+
+
+dadosEPG=[];
+
+
+programas.forEach(p=>{
+
+
+dadosEPG.push({
+
+canal:p.getAttribute("channel"),
+
+titulo:
+p.querySelector("title")
+?
+p.querySelector("title").textContent
+:
+"Sem informação"
+
+});
+
+
+});
+
+
+console.log(
+"EPG carregado:",
+dadosEPG.length
+);
+
+console.log(dadosEPG.slice(0,10));
+
+})
+
+.catch(e=>{
+
+console.log(
+"Erro EPG",
+e
+);
+
+});
+
+
+}
+
+// ===============================
+// INICIAR
+// ===============================
+
+
+
+window.onload=function(){
+
+    carregarFilmes();
+
+    carregarEPG();
+
+    atualizarListaCanais();
+
+};
+
+document
+.getElementById("atualizarLista")
+.onclick=function(){
+
+    carregarFilmes();
+
+};
+
+
+
+</script>
+<script>
+
+
+// =================================
+// MENU DE CATEGORIAS
+// =================================
+
+
+let categoriaAtual = "todos";
+
+
+const menuItems =
+document.querySelectorAll(".menuItem");
+
+
+
+menuItems.forEach(item=>{
+
+
+    item.onclick=function(){
+
+
+        menuItems.forEach(m=>{
+
+            m.classList.remove("active");
+
+        });
+
+
+
+        this.classList.add("active");
+
+
+
+        categoriaAtual =
+        this.dataset.cat;
+
+
+
+        filtrarCategoria();
+
+        atualizarListaCanais();
+
+
+
+    };
+
+
+});
+
+
+
+
+
+function filtrarCategoria(){
+
+
+focoLista=0;
+
+
+atualizarFoco();
+
+
+
+}
+
+
+
+
+
+// =================================
+// CONTROLE REMOTO
+// =================================
+
+
+
+let areaFoco="menu";
+
+
+let focoMenu=0;
+
+
+let focoLista=0;
+
+
+
+
+
+function pegarMenu(){
+
+
+return [
+...document.querySelectorAll(".menuItem")
+];
+
+
+}
+
+
+
+
+function pegarLista(){
+
+    return [
+        ...document.querySelectorAll(".canal")
+    ];
+
+}
+
+
+function atualizarFoco(){
+
+
+
+document
+.querySelectorAll(".menuItem")
+.forEach(item=>{
+
+
+item.classList.remove("focus");
+
+
+});
+
+
+
+
+document
+.querySelectorAll(".canal")
+.forEach(canal=>{
+
+canal.classList.remove("focus");
+
+});
+
+
+if(areaFoco==="menu"){
+
+
+
+let menu=
+pegarMenu();
+
+
+
+if(menu[focoMenu]){
+
+
+menu[focoMenu]
+.classList.add("focus");
+
+
+
+menu[focoMenu]
+.scrollIntoView({
+
+behavior:"smooth",
+
+block:"center"
+
+});
+
+
+
+}
+
+
+
+}
+
+
+
+else if(areaFoco==="lista"){
+
+let lista = pegarLista();
+
+if(lista[focoLista]){
+
+lista[focoLista].classList.add("focus");
+
+lista[focoLista].scrollIntoView({
+
+behavior:"smooth",
+
+block:"nearest"
+
+});
+
+}
+
+}
+
+else if(areaFoco==="player"){
+
+    videoPlayer.focus();
+
+}
+
+}
+
+
+
+
+
+document.addEventListener(
+"keydown",
+function(e){
+
+
+
+const tecla=e.key;
+
+
+
+const menu=pegarMenu();
+
+
+const lista=pegarLista();
+
+
+
+
+switch(tecla){
+
+
+
+case "ArrowDown":
+
+
+
+if(areaFoco==="menu"){
+
+
+focoMenu++;
+
+
+if(
+focoMenu>=menu.length
+){
+
+focoMenu=menu.length-1;
+
+}
+
+
+}
+
+else{
+
+
+focoLista++;
+
+
+if(
+focoLista>=lista.length
+){
+
+focoLista=lista.length-1;
+
+}
+
+
+}
+
+
+
+atualizarFoco();
+
+break;
+
+
+
+
+
+case "ArrowUp":
+
+
+
+if(areaFoco==="menu"){
+
+
+focoMenu--;
+
+
+if(focoMenu<0){
+
+focoMenu=0;
+
+}
+
+
+}
+
+else{
+
+
+focoLista--;
+
+
+if(focoLista<0){
+
+focoLista=0;
+
+}
+
+
+}
+
+
+
+atualizarFoco();
+
+break;
+
+
+
+
+
+case "ArrowRight":
+
+if(areaFoco==="menu"){
+
+    areaFoco="lista";
+
+    focoLista=0;
+
+}
+
+else if(areaFoco==="lista"){
+
+    areaFoco="player";
+
+}
+
+atualizarFoco();
+
+break;
+
+
+
+
+
+case "ArrowLeft":
+
+if(areaFoco==="player"){
+
+    areaFoco="lista";
+
+}
+
+else if(areaFoco==="lista"){
+
+    areaFoco="menu";
+
+}
+
+atualizarFoco();
+
+break;
+
+
+
+if(areaFoco==="lista"){
+
+
+areaFoco="menu";
+
+
+}
+
+
+atualizarFoco();
+
+
+break;
+
+
+
+
+
+case "Enter":
+
+    if(areaFoco==="menu"){
+
+        if(menu[focoMenu]){
+
+            menu[focoMenu].click();
+
+            areaFoco="lista";
+
+            focoLista=0;
+
+        }
+
+    }
+
+    else if(areaFoco==="lista"){
+
+        if(lista[focoLista]){
+
+            lista[focoLista].click();
+
+            areaFoco="player";
+
+        }
+
+    }
+
+    else if(areaFoco==="player"){
+
+    player.toggleControls(true);
+
+    player.fullscreen.toggle();
+
+}
+
+    atualizarFoco();
+
+break;
+
+
+
+
+case "Escape":
+
+    if(player.fullscreen.active){
+
+        player.fullscreen.exit();
+
+        player.toggleControls(false);
+
+        areaFoco="lista";
+
+        atualizarFoco();
+
+    }else{
+
+        history.back();
+
+    }
+
+break;
+
+
+
+}
+
+
+
+});
+
+
+
+
+
+// inicia foco no primeiro item
+
+
+window.addEventListener(
+"load",
+()=>{
+
+
+atualizarFoco();
+
+
+}
+
+);
+
+
+
+</script>
+  
+<script>
+console.log("Funcionando!");
+  
+</script>
+
+</body>
+</html>
+  
+
+<script>
+console.log("Funcionando!");
+  
+</script>
+
+</body>
+</html>
+  
