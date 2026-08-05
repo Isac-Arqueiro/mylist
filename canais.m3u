@@ -18,84 +18,85 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/58.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/69.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/70.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1699.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super HD
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super f2 http://tv.mapfibra.com.br:8555/live/1113/123456/310.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV FHD
+#EXTINF:-1 tvg-id=""tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODRf/redesuper.png" group-title="religioso",REDE Super f2 
+http://tv.mapfibra.com.br:8555/live/1113/123456/310.m3u8
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1690.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1691.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV f1
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/16.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD f2
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD f2
 http://tv.mapfibra.com.br:8555/live/1113/123456/285.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV HD
 https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV Mais HD
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjVf/pluto-redetv.png" group-title="canaisabertos",RedeTV Mais HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1693.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD
+#EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1713.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta f3
+#EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta f3
 http://190.83.85.68/gazeta/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD f1
+#EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta SD
+#EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1714.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa HD
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1719.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV f3
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV f3
 http://190.83.85.68/rede_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa SD
+#EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1720.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia HD
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/399.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f2
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f2
 http://tv.mapfibra.com.br:8555/live/1113/123456/276.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia SD
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/400.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f3
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f3
 http://190.83.85.68/band/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f2
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f2
 http://tv.mapfibra.com.br:8555/live/1021/123456/276.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band", BAND f1
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band", BAND f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Belém HD
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Belém HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/401.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Bauru HD
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Bauru HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1630.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV f1
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record 
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record 
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record f3
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record f3
 http://190.83.85.68/record/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1668.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
+#EXTINF:-1 tvg-id="523352"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="record",Record TV Tropical HD
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ FHD
+#EXTINF:-1 tvg-id="523298"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/451.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD f2
+#EXTINF:-1 tvg-id="523298"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD f2
 http://tv.mapfibra.com.br:8555/live/1113/123456/291.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD
+#EXTINF:-1 tvg-id="523298"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT TV RJ HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT f1
+#EXTINF:-1 tvg-id="523298"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDdf/sbt.png" group-title="sbt",SBT f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet FHD
+#EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/463.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet HD
+#EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/464.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet f3
+#EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet f3
 http://190.83.85.68/animal_planet/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel FHD
+#EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/466.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel f3
+#EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel f3
 http://190.83.85.68/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel
+#EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/468.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzZf/heh.png" group-title="documentario",Discovery Home and Health FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/469.m3u8
