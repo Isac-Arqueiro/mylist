@@ -166,6 +166,8 @@ http://dnsprivada1.live:80/966188/MGcn7B/71930.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/485.m3u8
 #EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 f3
 http://190.83.85.68/history/index.m3u8
+#EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 f4
+http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 g1
 http://190.83.2.180:8090/HISTORYHD/index.m3u8
 #EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 fp
@@ -573,10 +575,14 @@ http://dnsprivada1.live:80/966188/MGcn7B/103504.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/791.m3u8
 #EXTINF:-1 tvg-id="426062"tvg-logo="https://od.lk/s/NzdfNTg5NDI2NjZf/sportv.png" group-title="sportv",SporTV 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/792.m3u8
+#EXTINF:-1 tvg-id="426062"tvg-logo="https://od.lk/s/NzdfNTg5NDI2NjZf/sportv.png" group-title="sportv",SporTV 1 nt
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
 #EXTINF:-1 tvg-id="426062"tvg-logo="https://od.lk/s/NzdfNTg5NDI2NjZf/sportv.png" group-title="sportv",SporTV 1 SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/793.m3u8
 #EXTINF:-1 tvg-id="426082"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODJf/sportv2.png" group-title="sportv",SporTV 2 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/794.m3u8
+#EXTINF:-1 tvg-id="418722"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" group-title="esportes",ESPN 2 nt
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="426082"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODJf/sportv2.png" group-title="sportv",SporTV 2 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/795.m3u8
 #EXTINF:-1 tvg-id="426082"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODJf/sportv2.png" group-title="sportv",SporTV 2 SD
@@ -585,6 +591,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/796.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/797.m3u8
 #EXTINF:-1 tvg-id="426005"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODNf/sportv3.png" group-title="sportv",SporTV 3 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/798.m3u8
+#EXTINF:-1 tvg-id="426005"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODNf/sportv3.png" group-title="sportv",SporTV 3 nt
+http://177.52.24.163/SPORTV-3-HD/index.m3u8
 #EXTINF:-1 tvg-id="426005"tvg-logo="https://od.lk/s/NzdfNTg5NDI2ODNf/sportv3.png" group-title="sportv",SporTV 3 SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/799.m3u8
 #EXTINF:-1 tvg-id="Premiere 2 HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="premiere",Premiere 2 FHD
@@ -661,12 +669,10 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2012.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2013.m3u8
 #EXTINF:-1 tvg-id="Paramount+ Sports 4 HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="esportes",Paramount+ Sports 4 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2014.m3u8
-#EXTINF:-1 tvg-id="Receitas FAST HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST FHD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/546.m3u8
-#EXTINF:-1 tvg-id="Receitas FAST HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST HD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-#EXTINF:-1 tvg-id="Receitas FAST HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Njlf/receitafast.png" group-title="variedades",Receitas FAST SD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/548.m3u8
+#EXTINF:-1 tvg-id=""https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/3840px-Logo_GE_TV.svg.png" group-title="esportes",GE TV
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-id=""https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GE_TV.svg/3840px-Logo_GE_TV.svg.png" group-title="esportes",GE TV
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://icon2.cleanpng.com/lnd/20241222/jb/5f86fa00f0d96411dd912694a63f9b.webp" group-title="esportes",FIFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
