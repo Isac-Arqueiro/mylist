@@ -232,11 +232,11 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1906.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1923.m3u8
 #EXTINF:-1 tvg-id="523321"tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedades",Multishow HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1924.m3u8
-#EXTINF:-1 tvg-id="AeE"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E FHD
+#EXTINF:-1 tvg-id="A&E HD"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/555.m3u8
-#EXTINF:-1 tvg-id="AeE"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E f3
+#EXTINF:-1 tvg-id="A&E HD"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E f3
 http://190.83.85.68/ae/index.m3u8
-#EXTINF:-1 tvg-id="AeE"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E HD
+#EXTINF:-1 tvg-id="A&E HD"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/556.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NjRf/amc.png" group-title="filmesesereis",AMC FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/558.m3u8
