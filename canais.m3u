@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20231116/original/pngtree-test-icon-button-photo-png-image_13599672.png" group-title="globo",TESTE
-https://t.freetv.fun/live/axn.m3u8
+https://t.freetv.fun/live/disney-channel-1.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
