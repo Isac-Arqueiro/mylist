@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="523297" tvg-logo="https://png.pngtree.com/png-vector/20221016/ourlarge/pngtree-test-orange-icon-sign-test-testing-vector-png-image_15029880.png" group-title="documentario",A Planet TESTE
+https://embed.bugoumods.com/player.php?play=625a79336762687a7150724f63745235484e59425944426d707859715466767451426231754d377346574c354a48704e43623070755366474169755858625853647667543138464463384a6f6554425164334952412b4a6a30754a6972395667364b76425878364836586b3d&_t=1786210158559
+#EXTINF:-1 tvg-id="523310" tvg-logo="https://png.pngtree.com/png-vector/20221016/ourlarge/pngtree-test-orange-icon-sign-test-testing-vector-png-image_15029880.png" group-title="documentario",H&H TESTE
+https://embed.bugoumods.com/player.php?play=625a79336762687a7150724f63745235484e59425944426d707859715466767451426231754d377346574c354a48704e436230707553664741697558586258536265592f736b7a396e325a677464693338386f79696d2f634550633764426c33725644684a7063546e42733d&_t=1786210211851
+#EXTINF:-1 tvg-id="523309" tvg-logo="https://png.pngtree.com/png-vector/20221016/ourlarge/pngtree-test-orange-icon-sign-test-testing-vector-png-image_15029880.png" group-title="documentario",Discovery TESTE
+https://embed.bugoumods.com/player.php?play=625a79336762687a7150724f63745235484e59425944426d707859715466767451426231754d377346574c354a48704e4362307075536647416975585862585359704174596e396c6857634b766b4f744a37375a785a35307655386a4d394865494e7949757735567270593d&_t=1786210390723
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
@@ -739,8 +745,6 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/287.m3u8
 http://tv.mapfibra.com.br:8555/live/1021/123456/287.m3u8
 #EXTINF:-1 tvg-id="Rede Boas Novas HD"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="religioso",REDE BOAS NOVAS
 https://video09.logicahost.com.br/redefamilia/redefamilia/index.m3u8
-#EXTINF:-1 tvg-id="Rede Boas Novas HD"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="religioso",REDE BOAS NOVAS
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXceWg2SHVCXueLboeuODsCkgTK5mL9B2YWA&s" group-title="religioso",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Novo Tempo"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="religioso",Novo Tempo f2
@@ -757,6 +761,8 @@ http://tv.mapfibra.com.br:8555/live/1012/123456/278.m3u8
 http://tv.mapfibra.com.br:8555/live/1021/123456/278.m3u8
 #EXTINF:-1 tvg-id="Universal HD"tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="religioso",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal HD"tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="religioso",TV Universal
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="religioso",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="religioso",Rede Super Ff
