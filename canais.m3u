@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/24-hours-icon-set-twenty-260nw-2545045385.jpg" group-title="globo",DORAMA
-https://embed.bugoumods.com/player.php?play=625a79336762687a7150724f63745235484e59425944426d707859715466767451426231754d377346574c354a48704e43623070755366474169755858625853657652742f55636434485a616b644861415373646d67615837546e61666b786c306237464642384c3057673d&_t=1786224678909
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/24-hours-icon-set-twenty-260nw-2545045385.jpg" group-title="globo",Eu as patroas e as crinças
-https://embed.bugoumods.com/player.php?play=625a79336762687a7150724f63745235484e59425944426d707859715466767451426231754d377346574c354a48704e43623070755366474169755858625853737369525736723878774648696850644236416d6d585956767375644733767a4a496e3141662f534e67453d&_t=1786225489049
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/UFPKEtJSghXN1GsQnMbXkOnBH9QRyWhFJ_BRnlvfeP38A2KRwH9XBPm5HjdmY7-pR4Mv7cMSF_8--SJvDRo7" group-title="globo", RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
