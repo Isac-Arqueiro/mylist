@@ -12,14 +12,8 @@ http://tv.mapfibra.com.br:8555/live/1113/123456/282.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Amazônica Manaus FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/45.m3u8
-#EXTINF:-1 tvg-id="523353" tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-id="globo.sp"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/57.m3u8
-#EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71986.m3u8
-#EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/131186.m3u8
 #EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo Inter TV Cabugi Natal HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/58.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo RIO DE Janeiro FHD
@@ -68,10 +62,6 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/399.m3u8
 http://tv.mapfibra.com.br:8555/live/1113/123456/276.m3u8
 #EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Ff
 https://t.freetv.fun/live/band-mg.m3u8
-#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND fp
-http://dnsprivada1.live:80/966188/MGcn7B/71791.m3u8
-#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND fp
-http://dnsprivada1.live:80/966188/MGcn7B/71792.m3u8
 #EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/400.m3u8
 #EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f3
@@ -112,54 +102,30 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/463.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/464.m3u8
 #EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet fw
 http://45.162.64.114/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71775.m3u8
-#EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71776.m3u8
 #EXTINF:-1 tvg-id="523297"tvg-logo="https://od.lk/s/NzdfNTg1NjM4Njhf/animalplanet.png" group-title="documentario",Animal Planet f3
 http://190.83.85.68/animal_planet/index.m3u8
 #EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/466.m3u8
 #EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel f3
 http://190.83.85.68/discovery/index.m3u8
-#EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel fp
-http://dnsprivada1.live:80/966188/MGcn7B/71865.m3u8
-#EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel fp
-http://dnsprivada1.live:80/966188/MGcn7B/71866.m3u8
 #EXTINF:-1 tvg-id="523309"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTJf/discoverychannel.png" group-title="documentario",Discovery Channel
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/468.m3u8
 #EXTINF:-1 tvg-id="523310"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzZf/heh.png" group-title="documentario",Discovery Home and Health FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/469.m3u8
-#EXTINF:-1 tvg-id="523310"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzZf/heh.png" group-title="documentario",Discovery Home and Health fp
-http://dnsprivada1.live:80/966188/MGcn7B/71867.m3u8
-#EXTINF:-1 tvg-id="523310"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzZf/heh.png" group-title="documentario",Discovery Home and Health fp
-http://dnsprivada1.live:80/966188/MGcn7B/71868.m3u8
 #EXTINF:-1 tvg-id="426179"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTlf/discoveryscience.png" group-title="documentario",Discovery Science FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/472.m3u8
 #EXTINF:-1 tvg-id="426179"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTlf/discoveryscience.png" group-title="documentario",Discovery Science f3
 http://190.83.85.68/discovery_science/index.m3u8
 #EXTINF:-1 tvg-id="426179"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTlf/discoveryscience.png" group-title="documentario",Discovery Science HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/473.m3u8
-#EXTINF:-1 tvg-id="426179"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTlf/discoveryscience.png" group-title="documentario",Discovery Science HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71877.m3u8
-#EXTINF:-1 tvg-id="426179"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTlf/discoveryscience.png" group-title="documentario",Discovery Science HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71878 .m3u8
 #EXTINF:-1 tvg-id="523292"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjJf/discoverytheater.png" group-title="documentario",Discovery Theater FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/475.m3u8
 #EXTINF:-1 tvg-id="523292"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjJf/discoverytheater.png" group-title="documentario",Discovery Theater HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/476.m3u8
-#EXTINF:-1 tvg-id="523292"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjJf/discoverytheater.png" group-title="documentario",Discovery Theater HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71881.m3u8
-#EXTINF:-1 tvg-id="523292"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjJf/discoverytheater.png" group-title="documentario",Discovery Theater HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71882.m3u8
 #EXTINF:-1 tvg-id="523326"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjRf/discoveryturbo.png" group-title="documentario",Discovery Turbo FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/478.m3u8
 #EXTINF:-1 tvg-id="523326"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjRf/discoveryturbo.png" group-title="documentario",Discovery Turbo f3
 http://190.83.85.68/discovery_turbo/index.m3u8
-#EXTINF:-1 tvg-id="523326"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjRf/discoveryturbo.png" group-title="documentario",Discovery Turbo fp
-http://dnsprivada1.live:80/966188/MGcn7B/71885.m3u8
-#EXTINF:-1 tvg-id="523326"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjRf/discoveryturbo.png" group-title="documentario",Discovery Turbo fp
-http://dnsprivada1.live:80/966188/MGcn7B/71886.m3u8
 #EXTINF:-1 tvg-id="523326"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjRf/discoveryturbo.png" group-title="documentario",Discovery Turbo HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/479.m3u8
 #EXTINF:-1 tvg-id="523272"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjZf/discoveryworld.png" group-title="documentario",Discovery World FHD
@@ -168,14 +134,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/481.m3u8
 http://190.83.85.68/discovery_world/index.m3u8
 #EXTINF:-1 tvg-id="523272"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjZf/discoveryworld.png" group-title="documentario",Discovery World HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/482.m3u8
-#EXTINF:-1 tvg-id="523272"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjZf/discoveryworld.png" group-title="documentario",Discovery World HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71889.m3u8
-#EXTINF:-1 tvg-id="523272"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMjZf/discoveryworld.png" group-title="documentario",Discovery World HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71890.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwODZf/fishtv.png" group-title="documentario",Fish TV FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/484.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwODZf/fishtv.png" group-title="documentario",Fish TV HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71930.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwODZf/fishtv.png" group-title="documentario",Fish TV HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/485.m3u8
 #EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 f3
@@ -184,14 +144,8 @@ http://190.83.85.68/history/index.m3u8
 http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 g1
 http://190.83.2.180:8090/HISTORYHD/index.m3u8
-#EXTINF:-1 tvg-id="523342"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CMtiSdCcSCiLOnwbz8y0OZYAsYsS_4N6CDJH4QHyuQ&s=10" group-title="documentario",History 1 fp
-http://dnsprivada1.live:80/966188/MGcn7B/72148.m3u8
 #EXTINF:-1 tvg-id="417188"tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/490.m3u8
-#EXTINF:-1 tvg-id="417188"tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 fp
-http://dnsprivada1.live:80/966188/MGcn7B/72108.m3u8
-#EXTINF:-1 tvg-id="417188"tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 fp
-http://dnsprivada1.live:80/966188/MGcn7B/72109.m3u8
 #EXTINF:-1 tvg-id="417188"tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 f3
 http://190.83.85.68/h2/index.m3u8
 #EXTINF:-1 tvg-id="417188"tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="documentario",History 2 g1
@@ -206,34 +160,18 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/497.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2336.m3u8
 #EXTINF:-1 tvg-id="426094"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" group-title="joveminfantil",Cartoon Network HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2337.m3u8
-#EXTINF:-1 tvg-id="426094"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" group-title="joveminfantil",Cartoon Network HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71831.m3u8
-#EXTINF:-1 tvg-id="426094"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" group-title="joveminfantil",Cartoon Network HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71832.m3u8
 #EXTINF:-1 tvg-id="426094"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" group-title="joveminfantil",Cartoon Network SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2338.m3u8
 #EXTINF:-1 tvg-id="426194"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" group-title="joveminfantil",Cartoonito FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2339.m3u8
-#EXTINF:-1 tvg-id="426194"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" group-title="joveminfantil",Cartoonito fp
-http://dnsprivada1.live:80/966188/MGcn7B/71814.m3u8
-#EXTINF:-1 tvg-id="426194"tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" group-title="joveminfantil",Cartoonito fp
-http://dnsprivada1.live:80/966188/MGcn7B/71815.m3u8
 #EXTINF:-1 tvg-id="426105"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTdf/discoverykids.png" group-title="joveminfantil",Discovery Kids FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2342.m3u8
 #EXTINF:-1 tvg-id="426105"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTdf/discoverykids.png" group-title="joveminfantil",Discovery Kids f3
 http://190.83.85.68/discovery_kids/index.m3u8
-#EXTINF:-1 tvg-id="426105"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTdf/discoverykids.png" group-title="joveminfantil",Discovery Kids fp
-http://dnsprivada1.live:80/966188/MGcn7B/71873.m3u8
-#EXTINF:-1 tvg-id="426105"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTdf/discoverykids.png" group-title="joveminfantil",Discovery Kids fp
-http://dnsprivada1.live:80/966188/MGcn7B/71874.m3u8
 #EXTINF:-1 tvg-id="426105"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTdf/discoverykids.png" group-title="joveminfantil",Discovery Kids HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2343.m3u8
 #EXTINF:-1 tvg-id="552130"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" group-title="joveminfantil",Gloob FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2351.m3u8
-#EXTINF:-1 tvg-id="552130"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" group-title="joveminfantil",Gloob HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/72100.m3u8
-#EXTINF:-1 tvg-id="552130"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" group-title="joveminfantil",Gloob HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/131117.m3u8
 #EXTINF:-1 tvg-id="552130"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" group-title="joveminfantil",Gloob HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2352.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="joveminfantil",Retrô Cartoon FHD
@@ -270,24 +208,12 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1790.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2300.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjM4OThf/bandnews.png" group-title="news",BAND NEWS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2301.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjM4OThf/bandnews.png" group-title="news",BAND NEWS HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71802.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjM4OThf/bandnews.png" group-title="news",BAND NEWS HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71803.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjM4OThf/bandnews.png" group-title="news",BAND NEWS HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/103526.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2315.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2316.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71839.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71840.m3u8
 #EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2324.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS HD
-http://dnsprivada1.live:80/966188/MGcn7B/134024.m3u8
 #EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2325.m3u8
 #EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS f1
@@ -312,40 +238,20 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1887.m3u8
 #EXTINF:-1 tvg-id="523338"tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedades",ARTE 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1888.m3u8
-#EXTINF:-1 tvg-id="523338"tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedades",ARTE 1 HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71779.m3u8
-#EXTINF:-1 tvg-id="523338"tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="variedades",ARTE 1 HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71780.m3u8
 #EXTINF:-1 tvg-id="523324"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1890.m3u8
 #EXTINF:-1 tvg-id="523324"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1891.m3u8
-#EXTINF:-1 tvg-id="523324"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71808.m3u8
-#EXTINF:-1 tvg-id="523324"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="variedades",BIS HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71809.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1896.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1897.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71857.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="variedades",Curta HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71858.m3u8
 #EXTINF:-1 tvg-id="523283"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1899.m3u8
 #EXTINF:-1 tvg-id="523283"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1900.m3u8
-#EXTINF:-1 tvg-id="523283"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71902.m3u8
-#EXTINF:-1 tvg-id="523283"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71903.m3u8
 #EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1905.m3u8
-#EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network HD
-http://dnsprivada1.live:80/966188/MGcn7B/71934.m3u8
-#EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network HD
-http://dnsprivada1.live:80/966188/MGcn7B/71935i.m3u8
 #EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1906.m3u8
 #EXTINF:-1 tvg-id="523321"tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedades",Multishow FHD
@@ -370,72 +276,44 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/555.m3u8
 http://190.83.85.68/ae/index.m3u8
 #EXTINF:-1 tvg-id="523311"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/556.m3u8
-#EXTINF:-1 tvg-id="523311"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71762.m3u8
-#EXTINF:-1 tvg-id="523311"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71761.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NjRf/amc.png" group-title="filmesesereis",AMC FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/558.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NjRf/amc.png" group-title="filmesesereis",AMC HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/559.m3u8
-#EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NjRf/amc.png" group-title="filmesesereis",AMC HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71770.m3u8
-#EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NjRf/amc.png" group-title="filmesesereis",AMC HD fP
-http://dnsprivada1.live:80/966188/MGcn7B/71769.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/561.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN Ff
 https://t.freetv.fun/live/axn.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN f3
 http://190.83.85.68/axn/index.m3u8
-#EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN fp
-http://dnsprivada1.live:80/966188/MGcn7B/71783.m3u8
-#EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN fp
-http://dnsprivada1.live:80/966188/MGcn7B/71784.m3u8
 #EXTINF:-1 tvg-id="523312"tvg-logo="https://od.lk/s/NzdfNTkwMDUwMTBf/axn2.png" group-title="filmesesereis",AXN HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/562.m3u8
 #EXTINF:-1 tvg-id="523319"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MzZf/canalbrasil.png" group-title="filmesesereis",Canal Brasil FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/564.m3u8
 #EXTINF:-1 tvg-id="523319"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MzZf/canalbrasil.png" group-title="filmesesereis",Canal Brasil HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/565.m3u8
-#EXTINF:-1 tvg-id="523319"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MzZf/canalbrasil.png" group-title="filmesesereis",Canal Brasil HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/103518.m3u8
-#EXTINF:-1 tvg-id="523319"tvg-logo="https://od.lk/s/NzdfNTg1NjM5MzZf/canalbrasil.png" group-title="filmesesereis",Canal Brasil HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/103516.m3u8
 #EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/570.m3u8
 #EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax g1
 http://190.83.2.180:8090/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/571.m3u8
-#EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71835.m3u8
-#EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71836.m3u8
 #EXTINF:-1 tvg-id="523277"tvg-logo="https://od.lk/s/NzdfNTg1NjM5ODNf/cinemax.png" group-title="filmesesereis",Cinemax HD f3
 http://190.83.85.68/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="filmesesereis",Lifetime FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/579.m3u8
-#EXTINF:-1 tvg-id="Lifetime HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="filmesesereis",Lifetime fp
-http://dnsprivada1.live:80/966188/MGcn7B/72156.m3u8
 #EXTINF:-1 tvg-id="lifetime"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="filmesesereis",Lifetime HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/580.m3u8
 #EXTINF:-1 tvg-id="426147"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="filmesesereis",Megapix FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/582.m3u8
-#EXTINF:-1 tvg-id="426147"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="filmesesereis",Megapix fp
-http://dnsprivada1.live:80/966188/MGcn7B/72169.m3u8
 #EXTINF:-1 tvg-id="426147"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="filmesesereis",Megapix HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/583.m3u8
 #EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",Canal Sony FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/588.m3u8
 #EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",Canal Sony f3
 http://190.83.85.68/sony/index.m3u8
-#EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",Canal Sony fp
-http://dnsprivada1.live:80/966188/MGcn7B/71824.m3u8
 #EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",Canal Sony fw
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",Canal Sony fp
-http://dnsprivada1.live:80/966188/MGcn7B/71825.m3u8
 #EXTINF:-1 tvg-id="523333"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Mjdf/sonychannel.png" group-title="filmesesereis",SONY Channel HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/589.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/590.m3u8
@@ -489,8 +367,6 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/622.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/623.m3u8
 #EXTINF:-1 tvg-id="426051"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/624.m3u8
-#EXTINF:-1 tvg-id="426051"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO fp
-http://dnsprivada1.live:80/966188/MGcn7B/72120.m3u8
 #EXTINF:-1 tvg-id="426051"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO f3
 http://190.83.85.68/hbo/index.m3u8
 #EXTINF:-1 tvg-id="426051"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="hbo",HBO g1
@@ -501,10 +377,6 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/625.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/627.m3u8
 #EXTINF:-1 tvg-id="426113"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 g1
 http://190.83.2.180:8090/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="426113"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 fp
-http://dnsprivada1.live:80/966188/MGcn7B/72112.m3u8
-#EXTINF:-1 tvg-id="426113"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 fp
-http://dnsprivada1.live:80/966188/MGcn7B/72113.m3u8
 #EXTINF:-1 tvg-id="426113"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 f3
 http://190.83.85.68/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="426113"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="hbo",HBO 2 HD
@@ -515,46 +387,32 @@ http://190.83.2.180:8090/HBO_FAMILY/index.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/630.m3u8
 #EXTINF:-1 tvg-id="426090"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family f3
 http://190.83.85.68/hbo_family/index.m3u8
-#EXTINF:-1 tvg-id="426090"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family fp
-http://dnsprivada1.live:80/966188/MGcn7B/72116.m3u8
-#EXTINF:-1 tvg-id="426090"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family fp
-http://dnsprivada1.live:80/966188/MGcn7B/72117.m3u8
 #EXTINF:-1 tvg-id="426090"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="hbo",HBO Family HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/631.m3u8
 #EXTINF:-1 tvg-id="426076"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="hbo",HBO Mundi FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/633.m3u8
 #EXTINF:-1 tvg-id="426076"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="hbo",HBO Mundi f3
 http://190.83.85.68/hbo_mundi/index.m3u8
-#EXTINF:-1 tvg-id="426076"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="hbo",HBO Mundi fp
-http://dnsprivada1.live:80/966188/MGcn7B/72123.m3u8
 #EXTINF:-1 tvg-id="426076"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="hbo",HBO Mundi HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/634.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="hbo",HBO PLUS FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/636.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="hbo",HBO PLUS HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/637.m3u8
-#EXTINF:-1 tvg-id="HBO PLUS HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="hbo",HBO PLUS fp
-http://dnsprivada1.live:80/966188/MGcn7B/72125.m3u8
 #EXTINF:-1 tvg-id="426170"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="hbo",HBO POP FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/639.m3u8
 #EXTINF:-1 tvg-id="426170"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="hbo",HBO POP f3
 http://190.83.85.68/hbo_pop/index.m3u8
 #EXTINF:-1 tvg-id="426170"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="hbo",HBO POP HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/640.m3u8
-#EXTINF:-1 tvg-id="426170"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="hbo",HBO POP fp
-http://dnsprivada1.live:80/966188/MGcn7B/72131.m3u8
 #EXTINF:-1 tvg-id="425995"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="hbo",HBO Signature FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/642.m3u8
 #EXTINF:-1 tvg-id="425995"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="hbo",HBO Signature HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/643.m3u8
-#EXTINF:-1 tvg-id="425995"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="hbo",HBO Signature fp
-http://dnsprivada1.live:80/966188/MGcn7B/103494.m3u8
 #EXTINF:-1 tvg-id="426015"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="hbo",HBO Xtreme FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/645.m3u8
 #EXTINF:-1 tvg-id="426015"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="hbo",HBO Xtreme HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/646.m3u8
-#EXTINF:-1 tvg-id="426015"tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="hbo",HBO Xtreme fp
-http://dnsprivada1.live:80/966188/MGcn7B/72140.m3u8
 #EXTINF:-1 tvg-id="523346"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" group-title="telecine",Telecine Action FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/803.m3u8
 #EXTINF:-1 tvg-id="523346"tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" group-title="telecine",Telecine Action HD
@@ -591,28 +449,18 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/525.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/526.m3u8
 #EXTINF:-1 tvg-id="523284"tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" group-title="esportes",Combate HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/527.m3u8
-#EXTINF:-1 tvg-id="523284"tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" group-title="esportes",Combate HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71845.m3u8
-#EXTINF:-1 tvg-id="523284"tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" group-title="esportes",Combate HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71846.m3u8
 #EXTINF:-1 tvg-id="418725"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" group-title="esportes",ESPN FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/505.m3u8
 #EXTINF:-1 tvg-id="418725"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" group-title="esportes",ESPN HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/506.m3u8
-#EXTINF:-1 tvg-id="418725"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" group-title="esportes",ESPN HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71913.m3u8
 #EXTINF:-1 tvg-id="418722"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" group-title="esportes",ESPN 2 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/508.m3u8
 #EXTINF:-1 tvg-id="418722"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" group-title="esportes",ESPN 2 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/509.m3u8
-#EXTINF:-1 tvg-id="418722"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" group-title="esportes",ESPN 2 HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/71922.m3u8
 #EXTINF:-1 tvg-id="523329"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" group-title="esportes",ESPN 3 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/511.m3u8
 #EXTINF:-1 tvg-id="523329"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" group-title="esportes",ESPN 3 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/512.m3u8
-#EXTINF:-1 tvg-id="523329"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" group-title="esportes",ESPN 3 HD fp
-http://dnsprivada1.live:80/966188/MGcn7B/103504.m3u8
 #EXTINF:-1 tvg-id="426062"tvg-logo="https://od.lk/s/NzdfNTg5NDI2NjZf/sportv.png" group-title="sportv",SporTV 1 FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/791.m3u8
 #EXTINF:-1 tvg-id="426062"tvg-logo="https://od.lk/s/NzdfNTg5NDI2NjZf/sportv.png" group-title="sportv",SporTV 1 HD
