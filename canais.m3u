@@ -252,6 +252,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/117.m3u8
 https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="joveminfantil",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png" group-title="joveminfantil",Nick toons
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://png.pngtree.com/png-vector/20220926/ourmid/pngtree-nickelodeon-cartoon-movie-logo-vector-free-png-image_6218238.png" group-title="joveminfantil",Nick online
+https://x1colegal.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="523337"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="religioso",REDE VIDA HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1787.m3u8
 #EXTINF:-1 tvg-id="523337"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="religioso",REDE VIDA Ff
