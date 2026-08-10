@@ -250,6 +250,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1897.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1899.m3u8
 #EXTINF:-1 tvg-id="523283"tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="variedades",E! HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1900.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png" group-title="variedades",Masterchef
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
 #EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1905.m3u8
 #EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network HD
