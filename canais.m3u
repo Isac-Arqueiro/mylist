@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/UFPKEtJSghXN1GsQnMbXkOnBH9QRyWhFJ_BRnlvfeP38A2KRwH9XBPm5HjdmY7-pR4Mv7cMSF_8--SJvDRo7" group-title="globo", RunTime Crime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
@@ -346,6 +348,18 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1906.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1923.m3u8
 #EXTINF:-1 tvg-id="523321"tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="variedades",Multishow HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1924.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime Crime | Brasil link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime CinEspa...Terror | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+#EXTINF:-1 tvg-id=""tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="filmesesereis",RunTime Ação | Brasil ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="523311"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/555.m3u8
 #EXTINF:-1 tvg-id="523311"tvg-logo="https://od.lk/s/NzdfNTg1NjM4NTRf/ae.png" group-title="filmesesereis",A&E f3
