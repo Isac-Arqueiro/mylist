@@ -349,6 +349,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/612.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/613.m3u8
 #EXTINF:-1 tvg-id="Universal Premiere HD"tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" group-title="filmesesereis",Universal Premiere FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2484.m3u8
+#EXTINF:-1 tvg-id="523294"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDNf/tntseries.png" group-title="filmesesereis",TNT Séries HD
+http://190.83.85.68/tnt/index.m3u8
 #EXTINF:-1 tvg-id="Universal Premiere HD"tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" group-title="filmesesereis",Universal Premiere HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2482.m3u8
 #EXTINF:-1 tvg-id="Universal Premiere HD"tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" group-title="filmesesereis",Universal Premiere SD
@@ -577,6 +579,8 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e362f0c-b501-410f-9cde-c2791940dcb9/FilmRise_SeriesGratis_1920x1080.jpg" group-title="nostalgia",Filmes e Sésrie
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
 #EXTINF:-1 tvg-id=""tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="nostalgia",Sésrie Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://www.filmclub.es/wp-content/uploads/2012/12/Django-Unchained_old-header.jpg" group-title="nostalgia",Django
