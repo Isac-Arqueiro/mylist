@@ -587,7 +587,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XCdfJ4N2vmzQMv2R1BlNBxeNBVIZ91kLyTA3mvHBtbJtT5NFJYTMruGS&s=10" group-title="nostalgia",CindieTv
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e362f0c-b501-410f-9cde-c2791940dcb9/FilmRise_SeriesGratis_1920x1080.jpg" group-title="nostalgia",Filmes e Sésrie
+#EXTINF:-1 tvg-id=""tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e362f0c-b501-410f-9cde-c2791940dcb9/FilmRise_SeriesGratis_1920x1080.jpg" group-title="nostalgia",Filmes e Sésries
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
 #EXTINF:-1 tvg-id=""tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/240/240_img_bg_image_293x165_small.jpg" group-title="nostalgia",Sésrie Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
