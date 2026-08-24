@@ -272,10 +272,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2324.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2325.m3u8
 #EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS f1
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="neews",SBT NEWS
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="news",SBT NEWS
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://tse3.mm.bing.net/th/id/OIP.t7S7aCRTexug_NV5qjzLngHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="neews",Globo NEWS
-http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png" group-title="variedades",Just for Laughs Gags Plex
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64704954e536e0faaf10be9f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png" group-title="variedades",Just for Laughs Gags
@@ -631,12 +629,18 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/661.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/662.m3u8
 #EXTINF:-1 tvg-id="Premiere 8 HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="premiere",Premiere 8 SD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/663.m3u8
-#EXTINF:-1 tvg-id="Caze TV 1 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV
+#EXTINF:-1 tvg-id="Caze TV 1 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 1
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Caze TV 2 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 2 HD
+#EXTINF:-1 tvg-id="Caze TV 1 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé TV 1
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1960.m3u8
+#EXTINF:-1 tvg-id="Caze TV 2 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé  TV 2 HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1961.m3u8
+#EXTINF:-1 tvg-id="Caze TV 3 HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="caze",Cazé  TV 3 HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1962.m3u8
 #EXTINF:-1 tvg-id="Caze TV HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Caze TV HD"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjVf/cazetvyoutube.png" group-title="caze",Cazé TV Youtube
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1959.m3u8
 #EXTINF:-1 tvg-id="Disney PLUS 1 HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="esportes",Disney PLUS 1 HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1970.m3u8
 #EXTINF:-1 tvg-id="Disney PLUS 2 HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="esportes",Disney PLUS 2 HD
@@ -671,6 +675,8 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://lnb.com.br/wp-content/uploads/2025/10/Xsports-1-1200x750.png" group-title="esportes",Xsports
 http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_NSports_Vertical.png/120px-Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="esportes",Nsports
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2003.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s" group-title="nostalgia",ClassiqueTv
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XCdfJ4N2vmzQMv2R1BlNBxeNBVIZ91kLyTA3mvHBtbJtT5NFJYTMruGS&s=10" group-title="nostalgia",CindieTv
@@ -756,9 +762,13 @@ http://45.190.28.50/RIT/index.m3u8
 #EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1775.m3u8
+#EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova
 http://186.219.52.187/cancao_nova/index.m3u8
 #EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova f2
 http://tv.mapfibra.com.br:8555/live/1012/123456/278.m3u8
+#EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1776.m3u8
 #EXTINF:-1 tvg-id="Cancao Nova HD"tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="religioso",TV Cancao Nova f2
 http://tv.mapfibra.com.br:8555/live/1021/123456/278.m3u8
 #EXTINF:-1 tvg-id="Universal HD"tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="religioso",TV Universal
@@ -811,3 +821,318 @@ http://186.219.52.187/pai_eterno/index.m3u8
 http://tv.mapfibra.com.br:8555/live/1012/123456/300.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="religioso",PAI ETERNO
 http://45.190.28.50/PAI_ETERNO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24h • 220 Volts (2011) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • 220 Volts (2011) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • 911 (2018) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • 911 (2018) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Casa do Dragão (2022) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • A Casa do Dragão (2022) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Feiticeira (1964) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • A Feiticeira (1964) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Grande Família (2011) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • A Grande Família (2011) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Arquivo Morto (2003) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Arquivo Morto (2003) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • As Visões da Raven (2003) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • As Visões da Raven (2003) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Batman e Robin (1966) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Batman e Robin (1966) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Brasil Visto de Cima (2014) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Brasil Visto de Cima (2014) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Breaking Bad: A Quimica do Mal (2008) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Breaking Bad: A Quimica do Mal (2008) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Brooklyn 99 Lei e Desordem (2013) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Brooklyn 99 Lei e Desordem (2013) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Carga Pesada (2003) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Carga Pesada (2003) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Casos de Familia (2004) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Casos de Familia (2004) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Casseta e Planeta Urgente (1992) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Casseta e Planeta Urgente (1992) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Chapolin Colorado (1973) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Chapolin Colorado (1973) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Chaves (1973) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Chaves (1973) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Chespirito (1973) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Chespirito (1973) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Como Eu Conheci Sua Mãe (2005) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Como Eu Conheci Sua Mãe (2005) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • CSI Miami (2002) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • CSI Miami (2002) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Diários de um Vampiro (2009) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Diários de um Vampiro (2009) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Elementaríssimo (2012) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Elementaríssimo (2012) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Escolinha do Professor Raimundo Nova Geração (2015) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Escolinha do Professor Raimundo Nova Geração (2015) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Eu, a Patroa e as Crianças (2001) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Eu, a Patroa e as Crianças (2001) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Flash (2014) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Flash (2014) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Game of Thrones (2011) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Game of Thrones (2011) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Lista Negra (2013) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Lista Negra (2013) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Motel Bates (2013) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Motel Bates (2013) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Problema dos 3 Corpos (2024) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • O Problema dos 3 Corpos (2024) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2146.m3u8
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="24h • Os Normais (2001) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Os Normais (2001) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Os Simpsons (1989) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Os Simpsons (1989) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Parafernalha HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Parafernalha HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Polícia 24h (2010) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Polícia 24h (2010) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Porta dos Fundos HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Porta dos Fundos HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Reacher (2022) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Reacher (2022) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Sai de Baixo (1996) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Sai de Baixo (1996) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Smallville: As Aventuras do Superboy (2001) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Smallville: As Aventuras do Superboy (2001) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Tapas e Beijos (2011) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Tapas e Beijos (2011) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Teste de Fidelidade HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Teste de Fidelidade HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Boys (2019) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • The Boys (2019) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Good Doctor: O Bom Doutor (2017) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • The Good Doctor: O Bom Doutor (2017) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Masked Singer Brasil (2021) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • The Masked Singer Brasil (2021) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Walking Dead (2010) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • The Walking Dead (2010) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Toma Lá Dá Cá (2007) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Toma Lá Dá Cá (2007) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Tô de Graça (2017) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Tô de Graça (2017) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Um Maluco no Pedaço (1990) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Um Maluco no Pedaço (1990) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Vai Que Cola (2013) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Vai Que Cola (2013) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Vikings (2013) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Vikings (2013) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Zico 70 a História do Nosso Galinho (2023) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Zico 70 a História do Nosso Galinho (2023) HD
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Dois homens e meio" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Dois homens e meio
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Todo Mundo Odeia o Chris" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Todo Mundo Odeia o Chris
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • 90 Dias para Casar" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • 90 Dias para Casar
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • 90 Dias para Casar a Ultima Chance" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • 90 Dias para Casar a Ultima Chance
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • 90 Dias para Ficar Milionario" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • 90 Dias para Ficar Milionario
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Escolinha do Golias" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • A Escolinha do Golias
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • De Ferias com o Ex Diretoria" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • De Ferias com o Ex Diretoria
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Escolinha do Professor Raimundo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Escolinha do Professor Raimundo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Filhos da Anarquia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Filhos da Anarquia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Long Bright River" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Long Bright River
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Domo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • O Domo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Dono do Lar" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • O Dono do Lar
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Outlander" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Outlander
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Ozark" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Ozark
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Pesca Mortal" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Pesca Mortal
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Pinguim" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Pinguim
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Prison Break" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Prison Break
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Round6" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Round6
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Sintonia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Sintonia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • This Is Us" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • This Is Us
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Wandinha" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Wandinha
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Que Historia e Essa Porchat" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Que Historia e Essa Porchat
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Stranger Things" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Stranger Things
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • La casa de papel" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • La casa de papel
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Suits Homens de terno" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Suits Homens de terno
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Arrow" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Arrow
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Big Bang a Teoria" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Big Bang a Teoria
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Friends" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Friends
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Encantados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Encantados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Last of us" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • The Last of us
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Impuros 2018" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Impuros 2018
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Chosen" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • The Chosen
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Falando a Real" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Falando a Real
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Conto da Aia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • O Conto da Aia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Lucifer" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Lucifer
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • How I Met Your Father" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • How I Met Your Father
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Mentalista" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • O Mentalista
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Sobrenatural" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Sobrenatural
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Elementarissimo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Elementarissimo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Irmaos a Obra" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Irmaos a Obra
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Carros Unicos" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Carros Unicos
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Dupla do Barulho ao Resgate" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Dupla do Barulho ao Resgate
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • O Misterioso Triangulo do Alasca" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • O Misterioso Triangulo do Alasca
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Quilos Mortais Como eles estao agora" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Quilos Mortais Como eles estao agora
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Fear the Walking Dead" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Fear the Walking Dead
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Grey's Anatomy" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Grey's Anatomy
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados e Pelados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados e Pelados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Pesadelo na cozinha" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Pesadelo na cozinha
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Quilos Mortais" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Quilos Mortais
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Duna: A Profecia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Duna: A Profecia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Crimes que Viralizaram" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Crimes que Viralizaram
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Febre do Ouro Corredeiras do Alasca" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Febre do Ouro Corredeiras do Alasca
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Piscinas Incriveis" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Piscinas Incriveis
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Beleza Fatal" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Beleza Fatal
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Silo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Silo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Diarista" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • A Diarista
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Febre do Ouro" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Febre do Ouro
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • FBI Casos Reias" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • FBI Casos Reias
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Minha Mae com seu Pai" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Minha Mae com seu Pai
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Culpa do cabral" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • A Culpa do cabral
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Alf 0 ETeimoso" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Alf 0 ETeimoso
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • CSI Cyber" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • CSI Cyber
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • CSI Vegas" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • CSI Vegas
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • FBI" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • FBI
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • FBI Internacional" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • FBI Internacional
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • FBI: Os Mais Procurados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • FBI: Os Mais Procurados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Scorpion Servico de Inteligencia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Scorpion Servico de Inteligencia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Tres e Demais" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Tres e Demais
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • CSI Investigacao Criminal" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • CSI Investigacao Criminal
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Os Caras de Pau" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Os Caras de Pau
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Pé na Cova" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Pé na Cova
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Arquivo X" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Arquivo X
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Brasil Visto de Cima a Noite" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Brasil Visto de Cima a Noite
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Dupla do Barulho" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Dupla do Barulho
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Sangue Azul" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Sangue Azul
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Shameless" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Shameless
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • 220 Volts" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • 220 Volts
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Sob Nova Direcao" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Sob Nova Direcao
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • The Office 2005" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • The Office 2005
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • LOL Se Rir Ja Era" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • LOL Se Rir Ja Era
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • To de Graca" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • To de Graca
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Luluzinha" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Luluzinha
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Aladdin" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Aladdin
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Blossom" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Blossom
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • A Casa da Raven" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • A Casa da Raven
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Casa de Davi" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Casa de Davi
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Casados com o Inimigo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Casados com o Inimigo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Como Funciona o Universo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Como Funciona o Universo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Do Velho ao Novo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Do Velho ao Novo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Dra. Sandra Lee a Rainha dos Cravos" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Dra. Sandra Lee a Rainha dos Cravos
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Dra. Emma uma Questao de Pele" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Dra. Emma uma Questao de Pele
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados e Pelados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados e Pelados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados e Pelados a Tribo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados e Pelados a Tribo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados e Pelados Brasil" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados e Pelados Brasil
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados e Pelados Sozinhos" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados e Pelados Sozinhos
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados em Alto Mar" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados em Alto Mar
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados Pelados e Apaixonados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados Pelados e Apaixonados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados Pelados e Congelados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados Pelados e Congelados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados Pelados e Ilhados" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados Pelados e Ilhados
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Largados Pelados e Solitarios" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Largados Pelados e Solitarios
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Lobo em Pele de Cordeiro" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Lobo em Pele de Cordeiro
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Loucos por Churrasco" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Loucos por Churrasco
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Operacao Fronteira America do Sul" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Operacao Fronteira America do Sul
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Operacao Fronteira Brasil" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Operacao Fronteira Brasil
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Operacao Fronteira Suecia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Operacao Fronteira Suecia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Os Busbys 5" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Os Busbys 5
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Um Amor de Familia" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Um Amor de Familia
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • Vivendo com o Inimigo" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • Vivendo com o Inimigo
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h • MrBean" tvg-logo="https://i.imgur.com/BlltCKa.png" group-title="neews",24h • MrBean
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1287147.m3u8
