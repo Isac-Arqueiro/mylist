@@ -2,12 +2,14 @@
 
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo FHD
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo HD
 http://170.84.165.204/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f3
 http://190.83.85.68/globo/index.m3u8
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo SD
+http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo ft
 https://stream1.freetv.fun/3f05b2b74c7726d2fe91374737f6648dce8a5110486033bb5e073d52b736ce9f.ctv
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="globo",REDE Globo f2
@@ -64,7 +66,7 @@ http://190.83.85.68/rede_tv/index.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1720.m3u8
 #EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/399.m3u8
-#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia HD
+#EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND Bahia FHD
 http://45.190.28.50/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="523315"tvg-logo="https://od.lk/s/NzdfNTg1NjM4OTZf/band.png" group-title="band",BAND f2
 http://tv.mapfibra.com.br:8555/live/1113/123456/276.m3u8
@@ -244,6 +246,8 @@ http://45.177.114.115/BAND_NEWS/index.m3u8
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2315.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil HD
+http://170.83.49.66:8083/CNNBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://od.lk/s/NzdfNTg4OTQyNjhf/cnnbrasil.png" group-title="news",CNN Brasil
 http://170.84.165.204/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="Jovem Pan News HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="news",Jovem PAN NEWS FHD
@@ -286,7 +290,9 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1896.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1899.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png" group-title="variedades",Masterchef
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
-#EXTINF:-1 tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png" group-title="variedades",Masterchef
+#EXTINF:-1 tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png" group-title="variedades",Masterchef SD
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png" group-title="variedades",Masterchef HD
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/115.m3u8
 #EXTINF:-1 tvg-id="Food Network HD"tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="variedades",FOOD Network FHD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1905.m3u8
@@ -606,6 +612,8 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66634bd2ca7b
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://lnb.com.br/wp-content/uploads/2025/10/Xsports-1-1200x750.png" group-title="esportes",Xsports
 http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://lnb.com.br/wp-content/uploads/2025/10/Xsports-1-1200x750.png" group-title="esportes",Xsports SD
+http://tv.mapfibra.com.br:8555/live/1012/123456/309.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://lnb.com.br/wp-content/uploads/2025/10/Xsports-1-1200x750.png" group-title="esportes",Xsports de olho
 http://todeolho.shop:80/01565641/63940847/7387074.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_NSports_Vertical.png/120px-Logo_NSports_Vertical.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="esportes",Nsports
@@ -797,7 +805,7 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2109.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h • Escolinha do Professor Raimundo Nova Geração (2015) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Escolinha do Professor Raimundo Nova Geração (2015) HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24h • Eu, a Patroa e as Crianças (2001) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Eu, a Patroa e as Crianças (2001) HD
+#EXTINF:-1 tvg-id="" tvg-name="24h • Eu, a Patroa e as Crianças (2001) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Eu a Patroa e as Crianças (2001) HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h • Flash (2014) HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="neews",24h • Flash (2014) HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2119.m3u8
