@@ -54,6 +54,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1714.m3u8
 #EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta
 http://170.84.165.204/Gazeta_HD/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação SD
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa HD FdeC
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1719.m3u8
 #EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV f3
