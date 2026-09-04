@@ -44,6 +44,10 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1693.m3u8
 #EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta HD FdeC
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1713.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação SD
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta f3
 http://190.83.85.68/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta Ff
@@ -54,10 +58,6 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1714.m3u8
 #EXTINF:-1 tvg-id="523302"tvg-logo="https://od.lk/s/NzdfNTg1NjQxMTlf/gazeta1.png" group-title="canaisabertos",TV Gazeta
 http://170.84.165.204/Gazeta_HD/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canalduca%C3%A7%C3%A3o.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="canaisabertos",Canal Educação SD
-http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV Pampa HD FdeC
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1719.m3u8
 #EXTINF:-1 tvg-id="523301"tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NzBf/tvpampa.png" group-title="canaisabertos",RedeTV f3
@@ -256,6 +256,8 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/2325.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ytimg.com/vi/Ziq7XKAlr6E/maxresdefault.jpg" group-title="news",SBT NEWS
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png" group-title="variedades",Smile
+https://rpn.bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png" group-title="variedades",Just for Laughs Gags Plex
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64704954e536e0faaf10be9f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png" group-title="variedades",Just for Laughs Gags
@@ -1164,4 +1166,4 @@ http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h • Uma Odisséia Coreana HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="C • 24 Horas • Doramas",24h • Uma Odisséia Coreana HD
 http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1168.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h • Uma Segunda Chance HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="C • 24 Horas • Doramas",24h • Uma Segunda Chance HD
-http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1169.m3u8
+http://dns.fontedecanais.com.br:80/live/playercodestv/947942/1169.m3u8 
