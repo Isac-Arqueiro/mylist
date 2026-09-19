@@ -171,14 +171,8 @@
     {
       "titulo": "Domingo Espetacular",
       "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIEyZGBGqIufB1J3ehfOYT-XCuPVOq5Mx_Vbhcb_Jeg&s=10",
-      "video": "84noNkodUDo",
+      "video": "eGc-IAVAjuY",
       "categoria": "Canais"
-    },
-    {
-      "titulo": "Igreja Presbiteriana",
-      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ipb_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
-      "video": "cOoNRnfYIGU",
-      "categoria": "Religioso"
     },
     {
       "titulo": "International House of Prayer",
@@ -193,45 +187,63 @@
       "categoria": "Religioso"
     },
     {
-      "titulo": "Av. Salgado filho",
-      "capa": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a7/1e/a3/vista-da-av-salgado-filho.jpg",
+      "titulo": "Câmera 1",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "xS2KkLY5OrE",
       "categoria": "Câmeras Natal Rn"
     },
     {
-      "titulo": "Praia do Meio",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKmZWHxfeB2oJivg9xEgcy4hhgmK1VcamFhPJ_w6ZNV9ezyGTyIHLvWWR&s=10",
+      "titulo": "Câmera 2",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "cwVcWVperXg",
       "categoria": "Câmeras Natal Rn"
     },
     {
-      "titulo": "Arena das dunas",
-      "capa": "https://agorarn.com.br/files/uploads/2020/02/transito.png",
+      "titulo": "Câmera 3",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
+      "video": "8quWDK9i-v0",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Câmera 4",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "zXwsShTCd4Y",
       "categoria": "Câmeras Natal Rn"
     },
     {
-      "titulo": "Mário negócio e Felizardo moura",
-      "capa": "https://www.natal.rn.gov.br/storage/app/media/noticias/40324_Original.jpeg",
+      "titulo": "Câmera 5",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "DqrzABUTlXc",
       "categoria": "Câmeras Natal Rn"
     },
     {
       "titulo": "Varias câmeras",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLGGdDRIkQrAN0w7EviexxQG8pTGI5RvSq0jciG881g&s=10",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "O00YZItaim8",
       "categoria": "Câmeras Natal Rn"
     },
     {
-      "titulo": "Av. Roberto freire",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLGGdDRIkQrAN0w7EviexxQG8pTGI5RvSq0jciG881g&s=10",
+      "titulo": "Câmera 6",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "O00YZItaim8",
       "categoria": "Câmeras Natal Rn"
     },
     {
-      "titulo": "Pontanegra",
-      "capa": "https://assets.blogdobg.com.br/uploads/2020/11/33552.jpeg",
+      "titulo": "Câmera 7",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
       "video": "a-oLMTZ2jBs",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Câmera 8",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
+      "video": "nVlgbW-WrpI",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "10 Câmeras",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhEvUzaMJCHYxJ57M_BNQOSDbuXHigBRQb0Y9tsbPMQ&s=10",
+      "video": "SUFBzifltdo",
       "categoria": "Câmeras Natal Rn"
     },
     {
