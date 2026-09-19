@@ -79,34 +79,160 @@
       "categoria": "Filmes"
     },
     {
+      "titulo": "Romance Channel Brasil",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5941AaWgFAWCRH5QeL7vKws56nvo8VwYIDkRsj0LVlg&s",
+      "video": "pjxANvqKmPs",
+      "categoria": "Filmes e Séries"
+    },
+    {
+      "titulo": "Cine Família",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcc3xhKz9ZDi6DfbO5NYTmMS77Kg0afZPjanodA7MOA&s=10",
+      "video": "rxpHnQ0P018",
+      "categoria": "Filmes e Séries"
+    },
+    {
       "titulo": "Foodnetwork",
       "capa": "https://static.cdnlogo.com/logos/f/3/food-network-2.svg",
       "video": "mutjY3W9h9w",
       "categoria": "Entretenimento"
     },
     {
-      "titulo": "Vídeo 2",
-      "capa": "https://placehold.co/640x360/1e293b/ffffff?text=Video+2",
-      "video": "72if82b87R4",
-      "categoria": "Romance"
+      "titulo": "Nat Geo Animals",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ53BGWdV0sv3TgJOBwNXvCjYRAmzus4hkMQP_C8_lJw&s",
+      "video": "MiQe9ob9aDc",
+      "categoria": "Entretenimento"
     },
     {
-      "titulo": "Vídeo 3",
-      "capa": "https://placehold.co/640x360/312e81/ffffff?text=Video+3",
-      "video": "ABC12345678",
-      "categoria": "Comédia"
+      "titulo": "Nature Time Brasil",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJm4HTYEfc488WnOOnpoVB17eq5yoQcKnMJ08JIJTUg&s=10",
+      "video": "7SxLbOowyHY",
+      "categoria": "Entretenimento"
     },
     {
-      "titulo": "Vídeo 4",
-      "capa": "https://placehold.co/640x360/4c1d95/ffffff?text=Video+4",
-      "video": "DEF98765432",
-      "categoria": "Ação"
+      "titulo": "Animal Planeta",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn7tIuh5lMn3oezF7GUExtUPK-mKQV_j9wu2Ux4tV0g&s=10",
+      "video": "jf6Uqo-liEc",
+      "categoria": "Entretenimento"
     },
     {
-      "titulo": "Assassino do Alfabeto",
-      "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/19/07/11/19/50/4561676.jpg",
-      "video": "4yYu5rRljh0",
-      "categoria": "Fatos Reais"
+      "titulo": "Ninja Warrior AU",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCXXJy4X2Ce6l47RxpFbbvts1iQM5NJmg7oApPy4JeA&s=10",
+      "video": "xDsH6Rojmac",
+      "categoria": "ESPORTE"
+    },
+    {
+      "titulo": "Boxing Mates",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40rX9zdcf31H6FWSqnl34rbMAGwFCVF79k0p5qluxBw&s=10",
+      "video": "BBUFSZ0ORUc",
+      "categoria": "ESPORTE"
+    },
+    {
+      "titulo": "Bellator MMA",
+      "capa": "https://i.pinimg.com/736x/75/32/ae/7532ae65e704aab1a6efa3107b2dc296.jpg",
+      "video": "PQ664XjE_V4",
+      "categoria": "ESPORTE"
+    },
+    {
+      "titulo": "STF 1",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUleMhIUlUMxEaRssShGtQniPayLhTq-IIhkaMinQZg&s=10",
+      "video": "XfwDB9udBLw",
+      "categoria": "Canais"
+    },
+    {
+      "titulo": "STF 2",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUleMhIUlUMxEaRssShGtQniPayLhTq-IIhkaMinQZg&s=10",
+      "video": "kCyGQEcQv6c",
+      "categoria": "Canais"
+    },
+    {
+      "titulo": "SBT",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV91zWHr5CnulY_AW4uhZfOCmLz5mUgP5rBhgtckTmHQ&s=10",
+      "video": "lHXt6D_tO8E",
+      "categoria": "Canais"
+    },
+    {
+      "titulo": "Domingo Espetacular",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIEyZGBGqIufB1J3ehfOYT-XCuPVOq5Mx_Vbhcb_Jeg&s=10",
+      "video": "eGc-IAVAjuY",
+      "categoria": "Canais"
+    },
+    {
+      "titulo": "Igreja Presbiteriana",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ipb_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+      "video": "cOoNRnfYIGU",
+      "categoria": "Religioso"
+    },
+    {
+      "titulo": "Planetshakers",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd10b0ZM3jFOcdLyKTZNC9sgiegnZkZEoTFCLOZH3DMA&s=10",
+      "video": "zkcl7tBXhio",
+      "categoria": "Religioso"
+    },
+    {
+      "titulo": "Av. Salgado filho",
+      "capa": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a7/1e/a3/vista-da-av-salgado-filho.jpg",
+      "video": "xS2KkLY5OrE",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Praia do Meio",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKmZWHxfeB2oJivg9xEgcy4hhgmK1VcamFhPJ_w6ZNV9ezyGTyIHLvWWR&s=10",
+      "video": "cwVcWVperXg",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Arena das dunas",
+      "capa": "https://agorarn.com.br/files/uploads/2020/02/transito.png",
+      "video": "zXwsShTCd4Y",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Mário negócio e Felizardo moura",
+      "capa": "https://www.natal.rn.gov.br/storage/app/media/noticias/40324_Original.jpeg",
+      "video": "DqrzABUTlXc",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Varias câmeras",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLGGdDRIkQrAN0w7EviexxQG8pTGI5RvSq0jciG881g&s=10",
+      "video": "O00YZItaim8",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Av. Roberto freire",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLGGdDRIkQrAN0w7EviexxQG8pTGI5RvSq0jciG881g&s=10",
+      "video": "O00YZItaim8",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "Pontanegra",
+      "capa": "https://assets.blogdobg.com.br/uploads/2020/11/33552.jpeg",
+      "video": "a-oLMTZ2jBs",
+      "categoria": "Câmeras Natal Rn"
+    },
+    {
+      "titulo": "PJ Masks em Português",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwzfT8eyGJRTA6MHZkPoFl7hXw3LeTbpwNDEu3AIn1A&s=10",
+      "video": "aKtUWVDW10E",
+      "categoria": "JOVEM E INFANTIL"
+    },
+    {
+      "titulo": "Boomerang UK",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIv5axBOtMMibpJE0CE3oYGC2cAJ_ZrCQtHHMOs4blw&s=10",
+      "video": "WMBR_vDkd94",
+      "categoria": "JOVEM E INFANTIL"
+    },
+    {
+      "titulo": "Três Espiãs Demais",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD9zjlI6oz-9T4NtC6AjWOmA7u7jglM8RcdXSAQ0eQg&s=10",
+      "video": "VikYJ5l3XsM",
+      "categoria": "JOVEM E INFANTIL"
+    },
+    {
+      "titulo": "Bluey Português Brasil",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskNqsFwpP5nPtShhg6p6m66OQGeV3PTU1ApUWR2O3_Q&s=10",
+      "video": "OBe-ehVPKKk",
+      "categoria": "JOVEM E INFANTIL"
     }
   ]
 }
