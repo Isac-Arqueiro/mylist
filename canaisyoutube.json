@@ -120,7 +120,13 @@
       "video": "xDsH6Rojmac",
       "categoria": "ESPORTE"
     },
-     {
+    {
+      "titulo": "BattleBots",
+      "capa": "https://yt3.ggpht.com/THfX_f3iJuVio-ULFB7zk7Ui5vA3zlZ35uOJK36-TKWj1ltzu0Z_C9Ql5PjwaXofXK4PJIfsVQ=s48-c-k-c0x00ffffff-no-rj",
+      "video": "qXFiWYs16_M",
+      "categoria": "ESPORTE"
+    },
+    {
       "titulo": "Don't Go Wide",
       "capa": "https://yt3.ggpht.com/kvAHTPDmFtg0TU2zvguVXyQ_SVNH1_VGNXprudap796i2K1UDLWhpFPDS0jXJ254ReG-yo1g6Q=s48-c-k-c0x00ffffff-no-rj",
       "video": "8kc1f0uguCE",
@@ -130,12 +136,6 @@
       "titulo": "Boxing Mates",
       "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40rX9zdcf31H6FWSqnl34rbMAGwFCVF79k0p5qluxBw&s=10",
       "video": "BBUFSZ0ORUc",
-      "categoria": "ESPORTE"
-    },
-    {
-      "titulo": "BattleBots",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbx7Jxp9rGrsJgX3tzD3TMC9ETky4ShqMJMtHC2v46A&s=10",
-      "video": "qXFiWYs16_M",
       "categoria": "ESPORTE"
     },
     {
@@ -178,6 +178,12 @@
       "titulo": "Igreja Presbiteriana",
       "capa": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ipb_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
       "video": "cOoNRnfYIGU",
+      "categoria": "Religioso"
+    },
+    {
+      "titulo": "International House of Prayer",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0L_X33BfxQ35ihxZHuWKEzfHYDIjuatJJtsTNrWdEKA&s",
+      "video": "0uaZ30NEHLU",
       "categoria": "Religioso"
     },
     {
