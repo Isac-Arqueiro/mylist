@@ -1,3 +1,17 @@
+"canais": [
+    {
+      "nome": "Casa do Leão",
+      "url": "https://www.youtube.com/@CASADOLEAO.OFICIAL/live"
+    },
+    {
+      "nome": "Surf Brasil TV",
+      "url": "https://www.youtube.com/@surfbrasiltv/live"
+    },
+    {
+      "nome": "Novo Canal",
+      "url": "https://www.youtube.com/@NOVOCANAL/live"
+    }
+],
 {
   "videos": [
     {
