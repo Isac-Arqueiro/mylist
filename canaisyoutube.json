@@ -1,14 +1,5 @@
 {
-  "canais": [
-    {
-      "nome": "Casa do Leão",
-      "url": "https://www.youtube.com/@CASADOLEAO.OFICIAL/live"
-    },
-    {
-      "nome": "Surf Brasil TV",
-      "url": "https://www.youtube.com/@surfbrasiltv/live"
-    }
-  ],
+
   "videos": [
     {
       "titulo": "Lição 1",
@@ -40,7 +31,7 @@
       "video": "su7i4jGSPw4",
       "categoria": "A Recompensa da Honra"
     },
-    {
+     {
       "titulo": "Lição 6",
       "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg7l_1X7Y7qJXqRh0Fwfe3ukfx_nIhIn0D5nNlxlBZsuK2gEnW_6p6Do&s",
       "video": "kd1jo10Enmk",
@@ -54,7 +45,7 @@
     },
     {
       "titulo": "Lição 8",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg7l_1X7Y7qJXqRh0Fwfe3ukfx_nIhIn0D5nNlBZsuK2gEnW_6p6Do&s",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg7l_1X7Y7qJXqRh0Fwfe3ukfx_nIhIn0D5nNlxlBZsuK2gEnW_6p6Do&s",
       "video": "q8gXi2o9Xss",
       "categoria": "A Recompensa da Honra"
     },
