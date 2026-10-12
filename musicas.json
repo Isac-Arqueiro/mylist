@@ -1,4 +1,5 @@
 
+
 {
   "configuracao": {
     "tocarPrimeiro": "",
@@ -37,6 +38,14 @@
       "tipo": "mp3",
       "url": "https://palcocdn.akamaized.net/e/9/7/2/thallesroberto5-mesmo-sem-entenderm4a-128k-e61048a8.mp3",
       "horario": ""
+      },
+      {
+      "id": "musica05",
+      "titulo": "Não há barreira",
+      "artista": "Eli e Alvoro tito",
+      "tipo": "mp3",
+      "url": "https://drive.google.com/uc?export=download&id=1IJkSzRGa6VLyHnss1I1OXxqCRNq2y6Ft",
+      "horario": "20:15"
     }
   ]
 }
