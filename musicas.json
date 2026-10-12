@@ -1,24 +1,42 @@
 
 {
   "configuracao": {
-    "tocarPrimeiro": "musica01",
-    "continuarDeOndeParou": true
+    "tocarPrimeiro": "",
+    "continuarDeOndeParou": true,
+    "modoReproducao": "aleatorio"
   },
   "musicas": [
     {
       "id": "musica01",
-      "tipo": "youtube",
-      "url": "https://www.youtube.com/watch?v=Yq8k4O-lJp4"
+      "titulo": "Como Será o Amanhã",
+      "artista": "Jefter Santos feat. Eli Soares",
+      "tipo": "mp3",
+      "url": "https://palcocdn.akamaized.net/5/f/6/9/JefteSantosOficial-como-sera-o-amanha-e50dacf5.mp3",
+      "horario": ""
     },
     {
       "id": "musica02",
+      "titulo": "Não Pare de Crer",
+      "artista": "Preto no Branco feat. Eli Soares",
       "tipo": "mp3",
-      "url": "https://palcocdn.akamaized.net/5/f/6/9/JefteSantosOficial-como-sera-o-amanha-e50dacf5.mp3"
+      "url": "https://palcocdn.akamaized.net/c/0/1/7/pretonobranco3-02-nao-pare-de-crer-feat-eli-soares-cfbb4390.mp3",
+      "horario": ""
     },
     {
       "id": "musica03",
-      "tipo": "youtube",
-      "url": "https://www.youtube.com/watch?v=m4p9ZF5ExxM"
+      "titulo": "Filho Meu",
+      "artista": "Thalles Roberto",
+      "tipo": "mp3",
+      "url": "https://palcocdn.akamaized.net/4/1/a/8/thallesroberto5-thalles-roberto-filho-meum4a-128k-60c452f0.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica04",
+      "titulo": "Mesmo Sem Entender",
+      "artista": "Thalles Roberto",
+      "tipo": "mp3",
+      "url": "https://palcocdn.akamaized.net/e/9/7/2/thallesroberto5-mesmo-sem-entenderm4a-128k-e61048a8.mp3",
+      "horario": ""
     }
   ]
 }
