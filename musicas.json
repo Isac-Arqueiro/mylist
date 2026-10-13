@@ -41,10 +41,50 @@
       },
       {
       "id": "musica05",
+      "titulo": "MELHOR AMIGO O QUE SERIA DE MIM",
+      "artista": "NAIR NANY",
+      "tipo": "mp3",
+      "url": "https://ia600405.us.archive.org/33/items/melhor-amigo-o-que-seria-de-mim-ao-vivo-nair-nany/MELHOR%20AMIGO%20_%20O%20QUE%20SERIA%20DE%20MIM_%20%28%20AO%20VIVO%29%20_%20NAIR%20NANY.mp3",
+      "horario": ""
+      },
+      {
+      "id": "musica06",
       "titulo": "Não há barreira",
       "artista": "Eli e Alvaro tito",
       "tipo": "mp3",
       "url": "https://ia600501.us.archive.org/16/items/eli-soares-alvaro-tito-nao-ha-barreiras-1/Eli%20Soares%2C%20%C3%81lvaro%20Tito%20-%20N%C3%A3o%20H%C3%A1%20Barreiras%20%20%281%29.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica07",
+      "titulo": "Muito Melhor do Que Ouro",
+      "artista": "Adlin rodregues",
+      "tipo": "mp3",
+      "url": "https://ia600104.us.archive.org/9/items/muito-melhor-do-que-ouro-adlin-rodrigues-vitohria-sounds-128-kbps/Muito%20Melhor%20do%20Que%20Ouro%20_%20Adlin%20Rodrigues%20_%20Vitohria%20Sounds%20-%20%28128%20Kbps%29.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica08",
+      "titulo": "A FÉ",
+      "artista": "NA GRAÇA",
+      "tipo": "mp3",
+      "url": "https://ia601806.us.archive.org/5/items/a-fe-na-grac-a-ao-vivo-clipe-oficial-ce-u-music-128-kbps/A%20F%C3%89%20-%20NA%20GRA%C3%87A%20-%20AO%20VIVO%20%28CLIPE%20OFICIAL%20C%C3%89U%20MUSIC%29%20-%20%28128%20Kbps%29.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica09",
+      "titulo": "Ruja o Leão",
+      "artista": "Sued silva",
+      "tipo": "mp3",
+      "url": "https://ia903102.us.archive.org/4/items/olha-a-energia-desse-pu-blico-ruja-o-lea-o-fogo-em-teus-olhos-basscam-com-sued-silva-128-kbps/OLHA%20A%20ENERGIA%20DESSE%20P%C3%9ABLICO%21%20%F0%9F%94%A5%20_%20RUJA%20O%20LE%C3%83O%20%2B%20FOGO%20EM%20TEUS%20OLHOS%20_%20BASSCAM%20COM%20SUED%20SILVA%20-%20%28128%20Kbps%29.mp3",
+      "horario": ""
+    }
+    {
+      "id": "musica10",
+      "titulo": "Algo novo",
+      "artista": "André martins",
+      "tipo": "mp3",
+      "url": "https://ia600508.us.archive.org/8/items/algo-novo/Algo%20novo.mp3",
       "horario": ""
     }
   ]
