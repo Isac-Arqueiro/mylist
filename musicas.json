@@ -1,4 +1,3 @@
-
 {
   "configuracao": {
     "tocarPrimeiro": "",
@@ -12,7 +11,7 @@
       "artista": "Jefter Santos feat. Eli Soares",
       "tipo": "mp3",
       "url": "https://palcocdn.akamaized.net/5/f/6/9/JefteSantosOficial-como-sera-o-amanha-e50dacf5.mp3",
-      "horario": "10:50"
+      "horario": ""
     },
     {
       "id": "musica02",
@@ -37,16 +36,16 @@
       "tipo": "mp3",
       "url": "https://palcocdn.akamaized.net/e/9/7/2/thallesroberto5-mesmo-sem-entenderm4a-128k-e61048a8.mp3",
       "horario": ""
-      },
-      {
+    },
+    {
       "id": "musica05",
       "titulo": "MELHOR AMIGO O QUE SERIA DE MIM",
       "artista": "NAIR NANY",
       "tipo": "mp3",
       "url": "https://ia600405.us.archive.org/33/items/melhor-amigo-o-que-seria-de-mim-ao-vivo-nair-nany/MELHOR%20AMIGO%20_%20O%20QUE%20SERIA%20DE%20MIM_%20%28%20AO%20VIVO%29%20_%20NAIR%20NANY.mp3",
       "horario": ""
-      },
-      {
+    },
+    {
       "id": "musica06",
       "titulo": "Não há barreira",
       "artista": "Eli e Alvaro tito",
@@ -84,6 +83,62 @@
       "artista": "André martins",
       "tipo": "mp3",
       "url": "https://ia600508.us.archive.org/8/items/algo-novo/Algo%20novo.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica11",
+      "titulo": "Quando Jesus Estendeu a Sua Mão",
+      "artista": "Mattos Nascimento",
+      "tipo": "mp3",
+      "url": "https://ia600606.us.archive.org/24/items/quando-jesus-estendeu-a-sua-mao-mattos-nascimento/Quando%20Jesus%20Estendeu%20a%20Sua%20M%C3%A3o%20-%20Mattos%20Nascimento%20.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica12",
+      "titulo": "Cinco Pães e Dois Peixinhos",
+      "artista": "Marcus Salles Feat. Mattos Nascimento & Quatro por Um",
+      "tipo": "mp3",
+      "url": "https://ia601807.us.archive.org/20/items/cinco-paes-e-dois-peixinhos-marcus-salles-feat.-mattos-nascimento-quatro-por-um/Cinco%20P%C3%A3es%20e%20Dois%20Peixinhos%20-%20Marcus%20Salles%20Feat.%20Mattos%20Nascimento%20%26%20Quatro%20por%20Um.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica13",
+      "titulo": "Sou feliz",
+      "artista": "Cleyton Queiros e Matos nascimento",
+      "tipo": "mp3",
+      "url": "https://ia600508.us.archive.org/3/items/clayton-queiroz-feat.-mattos-nascimento-sou-feliz-ao-vivo/Clayton%20Queiroz%20feat.Mattos%20Nascimento%20SOU%20FELIZ%20AO%20VIVO.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica14",
+      "titulo": "Eu Agora Sou de Deus",
+      "artista": "Transcrição  Pesquisar transcrição Pesquisar transcrição  0:1515 segundosMinha vida é só cantando O que devo mais fazer 0:2121 segundosSe liberto estou por Cristo, eu sou 0:2828 segundosEu não ando m",
+      "tipo": "mp3",
+      "url": "https://ia600702.us.archive.org/27/items/jairo-bonfim-feat.-mattos-nascimento-eu-agora-sou-de-deus-acustico-93-ao-vivo-2020/Jairo%20Bonfim%20feat.Mattos%20Nascimento%20Eu%20Agora%20Sou%20de%20Deus%20Ac%C3%BAstico%2093%20AO%20VIVO%202020.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica15",
+      "titulo": "O Retorno do Rei",
+      "artista": "Adlin Rodrigues",
+      "tipo": "mp3",
+      "url": "https://ia600702.us.archive.org/9/items/o-retorno-do-rei-adlin-rodrigues-vitohria-sounds/O%20Retorno%20do%20Rei%20Adlin%20Rodrigues%20Vitohria%20Sounds.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica16",
+      "titulo": "O Nome Dele É Jesus",
+      "artista": "Rapha Gonçalves, Adlin Rodrigues",
+      "tipo": "mp3",
+      "url": "https://ia601006.us.archive.org/18/items/o-nome-dele-e-jesus-ao-vivo-dunamis-music-rapha-goncalves-adlin-rodrigues/O%20Nome%20Dele%20E%CC%81%20Jesus%20Ao%20Vivo%20Dunamis%20Music%20Rapha%20Gon%C3%A7alves%20Adlin%20Rodrigues.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica17",
+      "titulo": "Curas e Milagres",
+      "artista": "J Neto",
+      "tipo": "mp3",
+      "url": "https://ia903208.us.archive.org/11/items/j-neto-curas-e-milagres/J%20Neto%20-%20Curas%20e%20Milagres.mp3",
       "horario": ""
     }
   ]
