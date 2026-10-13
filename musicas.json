@@ -154,7 +154,7 @@
       "titulo": "God's life",
       "artista": "Gods's life",
       "tipo": "mp3",
-      "url": "https://archive.org/embed/vc-est-gods-life-um-com-ele_202610/Vc%20est%20gods%20life%20um%20com%20ele.mp3",
+      "url": "https://ia801007.us.archive.org/31/items/vc-est-gods-life-um-com-ele_202610/Vc%20est%20gods%20life%20um%20com%20ele.mp3",
       "horario": ""
     },
     {
@@ -179,6 +179,38 @@
       "artista": "Salomão",
       "tipo": "mp3",
       "url": "https://ia600701.us.archive.org/30/items/salomao-do-reggae-baseado/Salomao%20do%20reggae%20Baseado.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica23",
+      "titulo": "A Resposta",
+      "artista": "Thalles Roberto e Isaac",
+      "tipo": "mp3",
+      "url": "https://ia601408.us.archive.org/28/items/thalles-roberto-a-resposta/Thalles%20Roberto%20-%20A%20Resposta.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica24",
+      "titulo": "TODO PODEROSO",
+      "artista": "ALICE MACIEL E BANDA PENTECOSTAL",
+      "tipo": "mp3",
+      "url": "https://ia600103.us.archive.org/32/items/alice-maciel-e-banda-pentecostal-todo-poderoso/ALICE%20MACIEL%20E%20BANDA%20PENTECOSTAL%20-%20TODO%20PODEROSO.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica25",
+      "titulo": "SUA PRESENÇA",
+      "artista": "Alice Maciel",
+      "tipo": "mp3",
+      "url": "https://ia600503.us.archive.org/33/items/alice-maciel-sua-presenca/Alice%20Maciel%20Sua%20presen%C3%A7a.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica26",
+      "titulo": "Autoridade e Poder Os que confia no  SENHOR",
+      "artista": "IA",
+      "tipo": "mp3",
+      "url": "https://ia600602.us.archive.org/35/items/autoridade-e-poder-voce-nunca-ouviu-assim-antes-os-que-confiam-no-senhor/Autoridade%20e%20Poder%20%E2%80%94%20Voc%C3%AA%20Nunca%20Ouviu%20Assim%20Antes%20OS%20QUE%20CONFIAM%20NO%20SENHOR.mp3",
       "horario": ""
     }
   ]
