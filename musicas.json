@@ -276,6 +276,46 @@
       "tipo": "mp3",
       "url": "https://ia600406.us.archive.org/19/items/derrota-nao-e-coisa-de-cristao/Derrota%20N%C3%A3o%20e%20Coisa%20de%20Crist%C3%A3o.mp3",
       "horario": ""
+    },
+    {
+      "id": "musica35",
+      "titulo": "Vida Nova",
+      "artista": "Marcos antônio",
+      "tipo": "mp3",
+      "url": "https://ia600705.us.archive.org/20/items/vida-nova_202610/Vida%20Nova.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica36",
+      "titulo": "A quem enviarei",
+      "artista": "Valdeci aguiar",
+      "tipo": "mp3",
+      "url": "https://ia601608.us.archive.org/20/items/a-quem-enviarei/A%20Quem%20Enviarei.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica37",
+      "titulo": "Ele é Jeová",
+      "artista": "Danny Berrios",
+      "tipo": "mp3",
+      "url": "https://ia601408.us.archive.org/15/items/danny-berrios-ele-e-jeova-gospel-music/Danny%20Berrios%20Ele%20%C3%A9%20Jeov%C3%A1%20Gospel%20Music.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica38",
+      "titulo": "mar bravio",
+      "artista": "Shirley Carvalhaes",
+      "tipo": "mp3",
+      "url": "https://ia601901.us.archive.org/18/items/louvor-mar-bravio-shirley-carvalhaes/louvor%20mar%20bravio%20Shirley%20Carvalhaes.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica39",
+      "titulo": "Celebrai",
+      "artista": "Banda Canal",
+      "tipo": "mp3",
+      "url": "https://ia601009.us.archive.org/20/items/Celebrai/Celebrai.mp3",
+      "horario": ""
     }
   ]
 }
