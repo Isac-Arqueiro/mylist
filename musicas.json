@@ -78,14 +78,6 @@
       "horario": ""
     },
     {
-      "id": "musica10",
-      "titulo": "Algo novo",
-      "artista": "André martins",
-      "tipo": "mp3",
-      "url": "https://ia600508.us.archive.org/8/items/algo-novo/Algo%20novo.mp3",
-      "horario": ""
-    },
-    {
       "id": "musica11",
       "titulo": "Quando Jesus Estendeu a Sua Mão",
       "artista": "Mattos Nascimento",
@@ -579,6 +571,166 @@
       "artista": "Renato Suhett",
       "tipo": "mp3",
       "url": "https://ia600902.us.archive.org/7/items/renato-suhett-a-resposta/Renato%20Suhett%20A%20resposta.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica73",
+      "titulo": "Caminho do Gólgata",
+      "artista": "Eula",
+      "tipo": "mp3",
+      "url": "https://ia903206.us.archive.org/7/items/caminho-do-gogota/Caminho%20do%20G%C3%B3gota.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica74",
+      "titulo": "Sabe Filho",
+      "artista": "Mara lima",
+      "tipo": "mp3",
+      "url": "https://ia601600.us.archive.org/9/items/sabe-filho/Sabe%20Filho.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica75",
+      "titulo": "Valor de uma alma",
+      "artista": "Mara Lima",
+      "tipo": "mp3",
+      "url": "https://ia600602.us.archive.org/26/items/valor-de-uma-alma-dvd-35-anos-mara-lima/Valor%20de%20uma%20alma%20DVD%2035%20Anos%20Mara%20Lima.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica76",
+      "titulo": "Nenhuma condenação há",
+      "artista": "Armando Filho",
+      "tipo": "mp3",
+      "url": "https://ia601807.us.archive.org/21/items/nenhuma-condenacao-ha-armando-filho/Nenhuma%20condena%C3%A7%C3%A3o%20h%C3%A1%20Armando%20Filho.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica77",
+      "titulo": "Jesus, O Bom Amigo",
+      "artista": "Ian Gleizer",
+      "tipo": "mp3",
+      "url": "https://ia600606.us.archive.org/7/items/jesus-o-bom-amigo-amarelo-sertao-ian-gleizer-harpa-crista-no-sertao/Jesus%20O%20Bom%20Amigo%20Amarelo%20Sert%C3%A3o%20Ian%20Gleizer%20Harpa%20Crist%C3%A3%20no%20Sert%C3%A3o.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica78",
+      "titulo": "Uma Flor Gloriosa",
+      "artista": "Ian Gleizer",
+      "tipo": "mp3",
+      "url": "https://ia600503.us.archive.org/13/items/uma-flor-gloriosa-ian-gleizer-canta-meu-sertao-harpa-crista-nordestina/Uma%20Flor%20Gloriosa%20Ian%20Gleizer%20Canta%20Meu%20Sert%C3%A3o%20Harpa%20Crist%C3%A3%20Nordestina.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica79",
+      "titulo": "Vencendo Vem Jesus",
+      "artista": "Ian Gleizer",
+      "tipo": "mp3",
+      "url": "https://ia601001.us.archive.org/33/items/vencendo-vem-jesus-ian-gleizer-canta-meu-sertao-harpa-crista-nordestina/Vencendo%20Vem%20Jesus%20Ian%20Gleizer%20Canta%20Meu%20Sert%C3%A3o%20Harpa%20Crist%C3%A3%20Nordestina.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica80",
+      "titulo": "Medley: Plena Paz / Mais Perto Quero Estar",
+      "artista": "Ian Gleizer",
+      "tipo": "mp3",
+      "url": "https://ia600901.us.archive.org/10/items/medley-plena-paz-mais-perto-quero-estar-ian-gleizer-canta-meu-sertao-harpa-crista-nordestina/Medley%20Plena%20Paz%20Mais%20Perto%20Quero%20Estar%20Ian%20Gleizer%20Canta%20Meu%20Sert%C3%A3o%20Harpa%20Crist%C3%A3%20Nordestina.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica81",
+      "titulo": "Canaãn",
+      "artista": "Sergio Lopes",
+      "tipo": "mp3",
+      "url": "https://ia600401.us.archive.org/31/items/canaan-o-ensaio-sergio-lopes/Canaan%20O%20ENSAIO%20Sergio%20Lopes.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica82",
+      "titulo": "Ele é Exaltado",
+      "artista": "Adhemar de Campos",
+      "tipo": "mp3",
+      "url": "https://ia600507.us.archive.org/0/items/adhemar-de-campos-ele-e-exaltado-ao-vivo-ac-70anos/Adhemar%20de%20Campos%20Ele%20%C3%A9%20Exaltado%20Ao%20Vivo%20AC70anos.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica83",
+      "titulo": "Grande é o Senhor",
+      "artista": "ADHEMAR DE CAMPOS",
+      "tipo": "mp3",
+      "url": "https://ia600101.us.archive.org/5/items/adhemar-de-campos-ato-3-04-grande-e-o-senhor-igreja-na-rua/ADHEMAR%20DE%20CAMPOS%20ATO%203%2004%20Grande%20%C3%A9%20o%20Senhor%20IgrejaNaRua.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica84",
+      "titulo": "Tributo a Iehovah",
+      "artista": "ADHEMAR DE CAMPOS Eli Soares",
+      "tipo": "mp3",
+      "url": "https://ia601608.us.archive.org/3/items/adhemar-de-campos-eli-soares-tributo-a-iehovah-ao-vivo-ac-70anos/Adhemar%20de%20Campos%20Eli%20Soares%20Tributo%20a%20Iehovah%20Ao%20Vivo%20AC70anos.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica85",
+      "titulo": "Louvemos ao Senhor",
+      "artista": "Adhemar de Campos",
+      "tipo": "mp3",
+      "url": "https://ia600503.us.archive.org/34/items/adhemar-de-campos-louvemos-ao-senhor-ao-vivo-ac-70anos/Adhemar%20de%20Campos%20Louvemos%20ao%20Senhor%20Ao%20Vivo%20AC70anos.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica86",
+      "titulo": "Amigo de Deus",
+      "artista": "Adhemar de Campos , Paulo César Baruk",
+      "tipo": "mp3",
+      "url": "https://ia600802.us.archive.org/0/items/adhemar-de-campos-paulo-cesar-baruk-amigo-de-deus-ao-vivo-ac-70anos/Adhemar%20de%20Campos%20Paulo%20C%C3%A9sar%20Baruk%20Amigo%20de%20Deus%20Ao%20Vivo%20AC70anos.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica87",
+      "titulo": "Desenvolvendo Amor",
+      "artista": "Morada",
+      "tipo": "mp3",
+      "url": "https://ia600905.us.archive.org/26/items/2-desenvolvendo-amor-morada-atencao-feat.-fusao-r_202610/2%20Desenvolvendo%20Amor%20Morada%20Aten%C3%A7%C3%A3o%20feat.Fus%C3%A3o%20R.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica88",
+      "titulo": "Todos São Iguais",
+      "artista": "Eli Soares, João Alexandre",
+      "tipo": "mp3",
+      "url": "https://ia600104.us.archive.org/14/items/eli-soares-joao-alexandre-todos-sao-iguais-ao-vivo/Eli%20Soares%20Jo%C3%A3o%20Alexandre%20Todos%20S%C3%A3o%20Iguais%20Ao%20Vivo.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica89",
+      "titulo": "O Senhor é a Luz do Meu Caminho",
+      "artista": "Paulo Cesar Baruk",
+      "tipo": "mp3",
+      "url": "https://ia600903.us.archive.org/33/items/o-senhor-e-a-luz-do-meu-caminho-paulo-cesar-baruk/O%20Senhor%20%C3%A9%20a%20Luz%20do%20Meu%20Caminho%20Paulo%20Cesar%20Baruk.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica90",
+      "titulo": "HA HA HA",
+      "artista": "Daniel de Jesus",
+      "tipo": "mp3",
+      "url": "https://ia600505.us.archive.org/2/items/ha-ha-ha_202610/HA%20HA%20HA.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica91",
+      "titulo": "Em Fervente Oração",
+      "artista": "Nelson Ned",
+      "tipo": "mp3",
+      "url": "https://ia601001.us.archive.org/9/items/em-fervente-oracao-nelson-ned/Em%20Fervente%20Ora%C3%A7%C3%A3o%20Nelson%20Ned.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica92",
+      "titulo": "Em Cada Irmão Eu Vejo Cristo",
+      "artista": "Nelson Ned",
+      "tipo": "mp3",
+      "url": "https://ia601608.us.archive.org/2/items/em-cada-irmao-eu-vejo-cristo-nelson-ned/Em%20Cada%20Irm%C3%A3o%20Eu%20Vejo%20Cristo%20Nelson%20Ned.mp3",
       "horario": ""
     }
   ]
