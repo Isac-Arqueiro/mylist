@@ -6,22 +6,6 @@
   },
   "musicas": [
     {
-      "id": "musica01",
-      "titulo": "Como Será o Amanhã",
-      "artista": "Jefter Santos feat. Eli Soares",
-      "tipo": "mp3",
-      "url": "https://palcocdn.akamaized.net/5/f/6/9/JefteSantosOficial-como-sera-o-amanha-e50dacf5.mp3",
-      "horario": "12:00"
-    },
-    {
-      "id": "musica02",
-      "titulo": "Não Pare de Crer",
-      "artista": "Preto no Branco feat. Eli Soares",
-      "tipo": "mp3",
-      "url": "https://palcocdn.akamaized.net/c/0/1/7/pretonobranco3-02-nao-pare-de-crer-feat-eli-soares-cfbb4390.mp3",
-      "horario": ""
-    },
-    {
       "id": "musica05",
       "titulo": "MELHOR AMIGO O QUE SERIA DE MIM",
       "artista": "NAIR NANY",
@@ -35,14 +19,6 @@
       "artista": "Eli e Alvaro tito",
       "tipo": "mp3",
       "url": "https://ia600501.us.archive.org/16/items/eli-soares-alvaro-tito-nao-ha-barreiras-1/Eli%20Soares%2C%20%C3%81lvaro%20Tito%20-%20N%C3%A3o%20H%C3%A1%20Barreiras%20%20%281%29.mp3",
-      "horario": ""
-    },
-    {
-      "id": "musica07",
-      "titulo": "Muito Melhor do Que Ouro",
-      "artista": "Adlin rodregues",
-      "tipo": "mp3",
-      "url": "https://ia600104.us.archive.org/9/items/muito-melhor-do-que-ouro-adlin-rodrigues-vitohria-sounds-128-kbps/Muito%20Melhor%20do%20Que%20Ouro%20_%20Adlin%20Rodrigues%20_%20Vitohria%20Sounds%20-%20%28128%20Kbps%29.mp3",
       "horario": ""
     },
     {
@@ -91,22 +67,6 @@
       "artista": "Matos nasciento e Jairo bonfim",
       "tipo": "mp3",
       "url": "https://ia600702.us.archive.org/27/items/jairo-bonfim-feat.-mattos-nascimento-eu-agora-sou-de-deus-acustico-93-ao-vivo-2020/Jairo%20Bonfim%20feat.Mattos%20Nascimento%20Eu%20Agora%20Sou%20de%20Deus%20Ac%C3%BAstico%2093%20AO%20VIVO%202020.mp3",
-      "horario": ""
-    },
-    {
-      "id": "musica15",
-      "titulo": "O Retorno do Rei",
-      "artista": "Adlin Rodrigues",
-      "tipo": "mp3",
-      "url": "https://ia600702.us.archive.org/9/items/o-retorno-do-rei-adlin-rodrigues-vitohria-sounds/O%20Retorno%20do%20Rei%20Adlin%20Rodrigues%20Vitohria%20Sounds.mp3",
-      "horario": ""
-    },
-    {
-      "id": "musica16",
-      "titulo": "O Nome Dele É Jesus",
-      "artista": "Rapha Gonçalves, Adlin Rodrigues",
-      "tipo": "mp3",
-      "url": "https://ia601006.us.archive.org/18/items/o-nome-dele-e-jesus-ao-vivo-dunamis-music-rapha-goncalves-adlin-rodrigues/O%20Nome%20Dele%20E%CC%81%20Jesus%20Ao%20Vivo%20Dunamis%20Music%20Rapha%20Gon%C3%A7alves%20Adlin%20Rodrigues.mp3",
       "horario": ""
     },
     {
@@ -683,14 +643,6 @@
       "artista": "Paulo Cesar Baruk",
       "tipo": "mp3",
       "url": "https://ia600903.us.archive.org/33/items/o-senhor-e-a-luz-do-meu-caminho-paulo-cesar-baruk/O%20Senhor%20%C3%A9%20a%20Luz%20do%20Meu%20Caminho%20Paulo%20Cesar%20Baruk.mp3",
-      "horario": ""
-    },
-    {
-      "id": "musica90",
-      "titulo": "HA HA HA",
-      "artista": "Daniel de Jesus",
-      "tipo": "mp3",
-      "url": "https://ia600505.us.archive.org/2/items/ha-ha-ha_202610/HA%20HA%20HA.mp3",
       "horario": ""
     },
     {
@@ -1331,6 +1283,14 @@
       "artista": "J neto",
       "tipo": "mp3",
       "url": "https://dc731.4shared.com/img/3Oass0ZCku/631d733d/dlink__2Fdownload_2F3Oass0ZCku_2FAUD-20251112-WA0054.mp3_3Fsbsr_3Da054a62378b12d96ba12c8220513428fb93_26bip_3DMTc5LjIxMS4xNjUuOTU_26lgfp_3D52_26bip_3DMTc5LjIxMS4xNjUuOTU/preview.mp3",
+      "horario": ""
+    },
+    {
+      "id": "musica175",
+      "titulo": "Há HAHA",
+      "artista": "Daniel de jesus",
+      "tipo": "mp3",
+      "url": "https://ia600601.us.archive.org/27/items/audiostudio-mixagem-192kbps-2/audiostudio-mixagem-192kbps%20%282%29.mp3",
       "horario": ""
     }
   ]
