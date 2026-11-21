@@ -1,0 +1,1521 @@
+IPTV LIST MANAGER - LISTA ORGANIZADA
+Total de canais: 248
+Total de categorias: 10
+
+============================================================
+CATEGORIA: DOCUMENTÁRIOS
+============================================================
+1. Canal: History 1 L1
+   Categoria: documentários
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/HISTORY/index.m3u8
+   TVG-ID: 523342
+
+2. Canal: History 1 L1
+   Categoria: documentários
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/HISTORY/index.m3u8
+   TVG-ID: 523342
+
+3. Canal: wildearth
+   Categoria: documentários
+   Logo: (não informada)
+   Fonte: https://wildearth-plex.amagi.tv/master.m3u8
+   TVG-ID: (não informado)
+
+4. Canal: wildearth
+   Categoria: documentários
+   Logo: (não informada)
+   Fonte: https://wildearth-plex.amagi.tv/master.m3u8
+   TVG-ID: (não informado)
+
+============================================================
+CATEGORIA: DOCUMENTÁRIOS
+============================================================
+1. Canal: Animal Planet FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268775.m3u8
+   TVG-ID: Animal Planet 4K
+
+2. Canal: Discovery Channel FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268778.m3u8
+   TVG-ID: Discovery Channel 4K
+
+3. Canal: Discovery Home and Health FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268781.m3u8
+   TVG-ID: Discovery Home Health FHD
+
+4. Canal: Discovery Science FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268784.m3u8
+   TVG-ID: Discovery Science FHD
+
+5. Canal: Discovery Theater FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268787.m3u8
+   TVG-ID: Discovery Theater FHD
+
+6. Canal: Discovery Turbo FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268790.m3u8
+   TVG-ID: Discovery Turbo FHD
+
+7. Canal: Discovery World FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268793.m3u8
+   TVG-ID: Discovery World FHD
+
+8. Canal: Fish TV FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268796.m3u8
+   TVG-ID: Fish TV FHD
+
+9. Canal: History 2 FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268802.m3u8
+   TVG-ID: History 4k
+
+10. Canal: History FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268805.m3u8
+   TVG-ID: History 4k
+
+11. Canal: ID Investigacao Discovery FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268808.m3u8
+   TVG-ID: Investigacao Discovery FHD
+
+12. Canal: TLC FHD
+   Categoria: Documentários
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268811.m3u8
+   TVG-ID: TLC FHD
+
+============================================================
+CATEGORIA: ESPORTES
+============================================================
+1. Canal: BAND Sports L1
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
+   TVG-ID: 523330
+
+2. Canal: BAND Sports L1
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
+   TVG-ID: 523330
+
+3. Canal: Cazé TV 1
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+   TVG-ID: Caze TV 1 HD
+
+4. Canal: Cazé TV 1
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+   TVG-ID: Caze TV 1 HD
+
+5. Canal: DAZN
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://195.26.87.150/dazn/index.m3u8
+   TVG-ID: (não informado)
+
+6. Canal: DAZN
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://195.26.87.150/dazn/index.m3u8
+   TVG-ID: (não informado)
+
+7. Canal: ESPN 2 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269085.m3u8
+   TVG-ID: ESPN 2 HD
+
+8. Canal: ESPN 3 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269088.m3u8
+   TVG-ID: ESPN 3 HD
+
+9. Canal: ESPN 4 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269091.m3u8
+   TVG-ID: ESPN 4 4K
+
+10. Canal: ESPN 5 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269094.m3u8
+   TVG-ID: ESPN 4k
+
+11. Canal: ESPN 6 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269097.m3u8
+   TVG-ID: ESPN 4k
+
+12. Canal: ESPN FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269082.m3u8
+   TVG-ID: ESPN 4k
+
+13. Canal: FIFA
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+   TVG-ID: (não informado)
+
+14. Canal: FIFA
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+   TVG-ID: (não informado)
+
+15. Canal: FIFA Brasil
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+   TVG-ID: (não informado)
+
+16. Canal: FIFA Brasil
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+   TVG-ID: (não informado)
+
+17. Canal: FITE
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+   TVG-ID: (não informado)
+
+18. Canal: FITE
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+   TVG-ID: (não informado)
+
+19. Canal: FloHockey
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+20. Canal: FloHockey
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+21. Canal: FloRacing
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+22. Canal: FloRacing
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+23. Canal: GE TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+24. Canal: GE TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+   TVG-ID: (não informado)
+
+25. Canal: GE TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+26. Canal: GE TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+   TVG-ID: (não informado)
+
+27. Canal: GLORY FITE
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+   TVG-ID: (não informado)
+
+28. Canal: GLORY FITE
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+   TVG-ID: (não informado)
+
+29. Canal: MMA TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+   TVG-ID: (não informado)
+
+30. Canal: MMA TV
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+   TVG-ID: (não informado)
+
+31. Canal: Premiere 2 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269109.m3u8
+   TVG-ID: Premiere 2 FHD
+
+32. Canal: Premiere 2 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269110.m3u8
+   TVG-ID: Premiere 2 FHD
+
+33. Canal: Premiere 2 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269111.m3u8
+   TVG-ID: Premiere 2 FHD
+
+34. Canal: Premiere 3 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269112.m3u8
+   TVG-ID: Premiere 3 FHD
+
+35. Canal: Premiere 3 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269113.m3u8
+   TVG-ID: Premiere 3 FHD
+
+36. Canal: Premiere 3 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269114.m3u8
+   TVG-ID: Premiere 3 FHD
+
+37. Canal: Premiere 4 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269115.m3u8
+   TVG-ID: Premiere 4 FHD
+
+38. Canal: Premiere 4 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269116.m3u8
+   TVG-ID: Premiere 4 FHD
+
+39. Canal: Premiere 5 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269117.m3u8
+   TVG-ID: Premiere 5 FHD
+
+40. Canal: Premiere 5 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269118.m3u8
+   TVG-ID: Premiere 5 FHD
+
+41. Canal: Premiere 6 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269119.m3u8
+   TVG-ID: Premiere 6 FHD
+
+42. Canal: Premiere 6 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269120.m3u8
+   TVG-ID: Premiere 6 FHD
+
+43. Canal: Premiere 7 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269121.m3u8
+   TVG-ID: Premiere 7 FHD
+
+44. Canal: Premiere 7 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269122.m3u8
+   TVG-ID: Premiere 7 FHD
+
+45. Canal: Premiere 8 HD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269123.m3u8
+   TVG-ID: Premiere 2 FHD
+
+46. Canal: Premiere 8 SD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269124.m3u8
+   TVG-ID: Premiere 2 FHD
+
+47. Canal: Premiere Clubes FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269125.m3u8
+   TVG-ID: Premiere Clubes 4K
+
+48. Canal: SporTV 1 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269100.m3u8
+   TVG-ID: SporTV 4K
+
+49. Canal: SporTV 2 FHD
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269103.m3u8
+   TVG-ID: SporTV 2 FHD
+
+50. Canal: Surf Cinema
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+   TVG-ID: (não informado)
+
+51. Canal: Surf Cinema
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+   TVG-ID: (não informado)
+
+52. Canal: UFC Plex
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a1f3a9475210dddf5af4f33.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
+   TVG-ID: (não informado)
+
+53. Canal: UFC Plex
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6a1f3a9475210dddf5af4f33.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=Pcei3ezz7Rx7eWxdUfyR
+   TVG-ID: (não informado)
+
+54. Canal: Xsports L3
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/zoomoo/index.m3u8
+   TVG-ID: (não informado)
+
+55. Canal: Xsports L3
+   Categoria: Esportes
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/zoomoo/index.m3u8
+   TVG-ID: (não informado)
+
+============================================================
+CATEGORIA: FILEMES E SÉRIES
+============================================================
+1. Canal: CindieTv
+   Categoria: Filemes e Séries
+   Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XCdfJ4N2vmzQMv2R1BlNBxeNBVIZ91kLyTA3mvHBtbJtT5NFJYTMruGS&s=10
+   Fonte: https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: CindieTv
+   Categoria: Filemes e Séries
+   Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XCdfJ4N2vmzQMv2R1BlNBxeNBVIZ91kLyTA3mvHBtbJtT5NFJYTMruGS&s=10
+   Fonte: https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: ClassiqueTv
+   Categoria: Filemes e Séries
+   Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s
+   Fonte: https://stmv1.srvif.com/classique/classique/playlist.m3u8
+   TVG-ID: (não informado)
+
+4. Canal: ClassiqueTv
+   Categoria: Filemes e Séries
+   Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQMt8ROzYSMXc-3LGk3ynTnA0tt6yZmLmdQ&s
+   Fonte: https://stmv1.srvif.com/classique/classique/playlist.m3u8
+   TVG-ID: (não informado)
+
+5. Canal: Django
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+6. Canal: Django
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+7. Canal: Malhação
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+8. Canal: Malhação
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+9. Canal: Mr. Bean
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+10. Canal: Mr. Bean
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+11. Canal: RATIMBUM L3
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/ratimbum/index.m3u8
+   TVG-ID: 426130
+
+12. Canal: RATIMBUM L3
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/ratimbum/index.m3u8
+   TVG-ID: 426130
+
+13. Canal: Sésrie Clássicas
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
+   TVG-ID: (não informado)
+
+14. Canal: Sésrie Clássicas
+   Categoria: Filemes e Séries
+   Logo: (não informada)
+   Fonte: https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w903940777.m3u8
+   TVG-ID: (não informado)
+
+============================================================
+CATEGORIA: FILMES E SÉRIES
+============================================================
+1. Canal: A&E FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268962.m3u8
+   TVG-ID: A&E FHD
+
+2. Canal: A&E L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/AeE/index.m3u8
+   TVG-ID: 523311
+
+3. Canal: A&E L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/AeE/index.m3u8
+   TVG-ID: 523311
+
+4. Canal: AXN FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268968.m3u8
+   TVG-ID: AXN HD
+
+5. Canal: AXN L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/AXN/index.m3u8
+   TVG-ID: 523312
+
+6. Canal: AXN L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/AXN/index.m3u8
+   TVG-ID: 523312
+
+7. Canal: Canal Brasil FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268971.m3u8
+   TVG-ID: Canal Brasil FHD
+
+8. Canal: Canal Sony FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268986.m3u8
+   TVG-ID: Canal Sony FHD
+
+9. Canal: Cinemax FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268974.m3u8
+   TVG-ID: Cinemax FHD
+
+10. Canal: Film&Arts FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268977.m3u8
+   TVG-ID: (não informado)
+
+11. Canal: HBO 2 FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269028.m3u8
+   TVG-ID: HBO 2 FHD
+
+12. Canal: HBO Family FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269031.m3u8
+   TVG-ID: HBO Family FHD
+
+13. Canal: HBO FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269025.m3u8
+   TVG-ID: HBO FHD
+
+14. Canal: HBO Mundi FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269034.m3u8
+   TVG-ID: HBO Mundi FHD
+
+15. Canal: HBO Plus FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269037.m3u8
+   TVG-ID: (não informado)
+
+16. Canal: HBO Pop FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269040.m3u8
+   TVG-ID: (não informado)
+
+17. Canal: HBO Signature FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269043.m3u8
+   TVG-ID: HBO Signature FHD
+
+18. Canal: HBO Xtreme FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269046.m3u8
+   TVG-ID: HBO Xtreme FHD
+
+19. Canal: SONY Channel L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
+   TVG-ID: 523333
+
+20. Canal: SONY Channel L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
+   TVG-ID: 523333
+
+21. Canal: SONY Movies  L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/SONY_MOVIES/index.m3u8
+   TVG-ID: 417588
+
+22. Canal: SONY Movies  L1
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/SONY_MOVIES/index.m3u8
+   TVG-ID: 417588
+
+23. Canal: Space FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268992.m3u8
+   TVG-ID: Space 4K
+
+24. Canal: Space SD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268994.m3u8
+   TVG-ID: Space 4K
+
+25. Canal: TCM FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268998.m3u8
+   TVG-ID: TCM SD
+
+26. Canal: Telecine Action FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269049.m3u8
+   TVG-ID: Telecine Action FHD
+
+27. Canal: Telecine Cult FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269052.m3u8
+   TVG-ID: Telecine Cult FHD
+
+28. Canal: Telecine Fun FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269055.m3u8#EXTINF:-1 xc_vm-id="22269058" tvg-id="Telecine Pipoca FHD" tvg-name="Telecine Pipoca FHD" tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca FHD
+   TVG-ID: Telecine Fun FHD
+
+29. Canal: Telecine Premium FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269061.m3u8
+   TVG-ID: Telecine Premium FHD
+
+30. Canal: Telecine Touch FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269064.m3u8
+   TVG-ID: Telecine Touch FHD
+
+31. Canal: TNT FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269001.m3u8
+   TVG-ID: TNT 4K
+
+32. Canal: TNT Séries FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269007.m3u8
+   TVG-ID: TNT Series 4K
+
+33. Canal: Warner Channel FHD
+   Categoria: Filmes e Séries
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22269022.m3u8
+   TVG-ID: Warner Channel FHD
+
+============================================================
+CATEGORIA: INFANTIL
+============================================================
+1. Canal: Gospel Cartoon
+   Categoria: Infantil
+   Logo: https://i.imgur.com/yxjPno5.png
+   Fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: Gospel Cartoon
+   Categoria: Infantil
+   Logo: https://i.imgur.com/yxjPno5.png
+   Fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: Mr. Bean
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
+   TVG-ID: (não informado)
+
+4. Canal: Mr. Bean
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
+   TVG-ID: (não informado)
+
+5. Canal: Nick online
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://x1colegal.com/hls/0/stream.m3u8
+   TVG-ID: (não informado)
+
+6. Canal: Nick online
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://x1colegal.com/hls/0/stream.m3u8
+   TVG-ID: (não informado)
+
+7. Canal: Nick Online
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://x1colegal.com/hls/stream.m3u8
+   TVG-ID: (não informado)
+
+8. Canal: Nick Online
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://x1colegal.com/hls/stream.m3u8
+   TVG-ID: (não informado)
+
+9. Canal: Nick Online Bob Esponja
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://bob.x1colegal.com/hls/stream.m3u8
+   TVG-ID: (não informado)
+
+10. Canal: Nick Online Bob Esponja
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://bob.x1colegal.com/hls/stream.m3u8
+   TVG-ID: (não informado)
+
+11. Canal: Nick toons
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+   TVG-ID: (não informado)
+
+12. Canal: Nick toons
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+   TVG-ID: (não informado)
+
+13. Canal: Os Jetsons
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+   TVG-ID: (não informado)
+
+14. Canal: Os Jetsons
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+   TVG-ID: (não informado)
+
+15. Canal: Retrô Cartoon HD
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
+   TVG-ID: (não informado)
+
+16. Canal: Retrô Cartoon HD
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
+   TVG-ID: (não informado)
+
+17. Canal: tiquiciatv
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+   TVG-ID: (não informado)
+
+18. Canal: tiquiciatv
+   Categoria: Infantil
+   Logo: (não informada)
+   Fonte: http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+   TVG-ID: (não informado)
+
+============================================================
+CATEGORIA: NOTÍCIAS
+============================================================
+1. Canal: BAND NEWS L1
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/BAND_NEWS/index.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: BAND NEWS L1
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/BAND_NEWS/index.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: CNBC Times Brasil FHD
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268887.m3u8
+   TVG-ID: CNN Brasil FHD
+
+4. Canal: CNN Brasil FHD
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268890.m3u8
+   TVG-ID: CNN Brasil FHD
+
+5. Canal: GLOBO NEWS ( B )
+   Categoria: Notícias
+   Logo: https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png
+   Fonte: http://79.127.238.228:14093
+   TVG-ID: (não informado)
+
+6. Canal: GLOBO NEWS ( B )
+   Categoria: Notícias
+   Logo: https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png
+   Fonte: http://79.127.238.228:14093
+   TVG-ID: (não informado)
+
+7. Canal: Globo News FHD
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268899.m3u8
+   TVG-ID: Globo News FHD
+
+8. Canal: Jovem Pan News L3
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/jp_news/index.m3u8
+   TVG-ID: 417187
+
+9. Canal: Jovem Pan News L3
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/jp_news/index.m3u8
+   TVG-ID: 417187
+
+10. Canal: Record News FHD
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268905.m3u8
+   TVG-ID: Record News HD
+
+11. Canal: RECORD NEWS L3
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/record_news/index.m3u8
+   TVG-ID: (não informado)
+
+12. Canal: RECORD NEWS L3
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/record_news/index.m3u8
+   TVG-ID: (não informado)
+
+13. Canal: SBT NEWS
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+   TVG-ID: (não informado)
+
+14. Canal: SBT NEWS
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+   TVG-ID: (não informado)
+
+15. Canal: SBT News FHD
+   Categoria: Notícias
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268908.m3u8
+   TVG-ID: (não informado)
+
+============================================================
+CATEGORIA: OUTROS
+============================================================
+1. Canal: Despertar Tv
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://br.conectmy.com.br/DespertarTV/index.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: Despertar Tv
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://br.conectmy.com.br/DespertarTV/index.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: Evangelizar L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/tv_evangelizar/index.m3u8
+   TVG-ID: (não informado)
+
+4. Canal: Evangelizar L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/tv_evangelizar/index.m3u8
+   TVG-ID: (não informado)
+
+5. Canal: Gospel Music Television
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+   TVG-ID: (não informado)
+
+6. Canal: Gospel Music Television
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+   TVG-ID: (não informado)
+
+7. Canal: Novo Tempo L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/novo_tempo/index.m3u8
+   TVG-ID: Novo Tempo
+
+8. Canal: Novo Tempo L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/novo_tempo/index.m3u8
+   TVG-ID: Novo Tempo
+
+9. Canal: PAI ETERNO L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/pai_eterno/index.m3u8
+   TVG-ID: (não informado)
+
+10. Canal: PAI ETERNO L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/pai_eterno/index.m3u8
+   TVG-ID: (não informado)
+
+11. Canal: REDE BOAS NOVAS
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://video09.logicahost.com.br/redefamilia/redefamilia/index.m3u8
+   TVG-ID: Rede Boas Novas HD
+
+12. Canal: REDE BOAS NOVAS
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://video09.logicahost.com.br/redefamilia/redefamilia/index.m3u8
+   TVG-ID: Rede Boas Novas HD
+
+13. Canal: Rede Gospel
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+   TVG-ID: (não informado)
+
+14. Canal: Rede Gospel
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+   TVG-ID: (não informado)
+
+15. Canal: Rede Super
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+   TVG-ID: (não informado)
+
+16. Canal: Rede Super
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+   TVG-ID: (não informado)
+
+17. Canal: Rede Super ( C )
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/310.m3u8
+   TVG-ID: (não informado)
+
+18. Canal: Rede Super ( C )
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/310.m3u8
+   TVG-ID: (não informado)
+
+19. Canal: REDE Super HD
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+   TVG-ID: (não informado)
+
+20. Canal: REDE Super HD
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+   TVG-ID: (não informado)
+
+21. Canal: Rede Vida
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+   TVG-ID: (não informado)
+
+22. Canal: Rede Vida
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+   TVG-ID: (não informado)
+
+23. Canal: REDE VIDA
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+   TVG-ID: 523337
+
+24. Canal: REDE VIDA
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+   TVG-ID: 523337
+
+25. Canal: Rede Vida L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/rede_vida/index.m3u8
+   TVG-ID: (não informado)
+
+26. Canal: Rede Vida L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/rede_vida/index.m3u8
+   TVG-ID: (não informado)
+
+27. Canal: RIT TV
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://acesso.ecast.site:3648/live/ritlive.m3u8
+   TVG-ID: Rit Tv HD
+
+28. Canal: RIT TV
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+   TVG-ID: Rit Tv HD
+
+29. Canal: RIT TV
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://acesso.ecast.site:3648/live/ritlive.m3u8
+   TVG-ID: Rit Tv HD
+
+30. Canal: RIT TV
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+   TVG-ID: Rit Tv HD
+
+31. Canal: Spirit tv
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+   TVG-ID: (não informado)
+
+32. Canal: Spirit tv
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+   TVG-ID: (não informado)
+
+33. Canal: TV Aparecida
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+   TVG-ID: (não informado)
+
+34. Canal: TV Aparecida
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+   TVG-ID: (não informado)
+
+35. Canal: TV Cancao Nova L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/cancao_nova/index.m3u8
+   TVG-ID: Cancao Nova HD
+
+36. Canal: TV Cancao Nova L3
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/cancao_nova/index.m3u8
+   TVG-ID: Cancao Nova HD
+
+37. Canal: TV Maná
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+   TVG-ID: (não informado)
+
+38. Canal: TV Maná
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+   TVG-ID: (não informado)
+
+39. Canal: TV Universal
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+   TVG-ID: Universal HD
+
+40. Canal: TV Universal
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+   TVG-ID: Universal HD
+
+41. Canal: TV Universal
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+   TVG-ID: Universal HD
+
+42. Canal: TV Universal
+   Categoria: Outros
+   Logo: (não informada)
+   Fonte: https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+   TVG-ID: Universal HD
+
+============================================================
+CATEGORIA: TV ABERTA
+============================================================
+1. Canal: Canal Educação
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: Canal Educação
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: GLOBO ( B )
+   Categoria: TV Aberta
+   Logo: https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png
+   Fonte: http://79.127.238.228:14173/
+   TVG-ID: (não informado)
+
+4. Canal: GLOBO ( B )
+   Categoria: TV Aberta
+   Logo: https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png
+   Fonte: http://79.127.238.228:14173/
+   TVG-ID: (não informado)
+
+5. Canal: Record
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+   TVG-ID: 523352
+
+6. Canal: Record
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
+   TVG-ID: 523352
+
+7. Canal: Record
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+   TVG-ID: 523352
+
+8. Canal: Record
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/index.m3u8
+   TVG-ID: 523352
+
+9. Canal: Record ( C )
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/286.m3u8
+   TVG-ID: 523352
+
+10. Canal: Record ( C )
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/286.m3u8
+   TVG-ID: 523352
+
+11. Canal: Record TV Brasília HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: http://tigerouro.shop/live/9tYtfX/xD2sdK/22268655.m3u8
+   TVG-ID: (não informado)
+
+12. Canal: Record TV Tropical HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
+   TVG-ID: 523352
+
+13. Canal: Record TV Tropical HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1589932685.m3u8
+   TVG-ID: 523352
+
+14. Canal: RedeTV HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
+   TVG-ID: 523301
+
+15. Canal: RedeTV HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/index.m3u8
+   TVG-ID: 523301
+
+16. Canal: RedeTV HD L3
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/rede_tv/index.m3u8
+   TVG-ID: 523301
+
+17. Canal: RedeTV HD L3
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/rede_tv/index.m3u8
+   TVG-ID: 523301
+
+18. Canal: RedeTV O Dia
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+   TVG-ID: 523301
+
+19. Canal: RedeTV O Dia
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+   TVG-ID: 523301
+
+20. Canal: SBT Cidade Verde
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w635120748.m3u8
+   TVG-ID: 523298
+
+21. Canal: SBT Cidade Verde
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w635120748.m3u8
+   TVG-ID: 523298
+
+22. Canal: SBT Cidade Verde Picos
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+   TVG-ID: 523298
+
+23. Canal: SBT Cidade Verde Picos
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+   TVG-ID: 523298
+
+24. Canal: SBT TV
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+   TVG-ID: 523298
+
+25. Canal: SBT TV
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+   TVG-ID: 523298
+
+26. Canal: SBT TV RJ HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+   TVG-ID: 523298
+
+27. Canal: SBT TV RJ HD
+   Categoria: TV Aberta
+   Logo: (não informada)
+   Fonte: https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+   TVG-ID: 523298
+
+============================================================
+CATEGORIA: VARIEDADES
+============================================================
+1. Canal: FUTURA ( C )
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8
+   TVG-ID: (não informado)
+
+2. Canal: FUTURA ( C )
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/280.m3u8
+   TVG-ID: (não informado)
+
+3. Canal: FUTURA L1
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/FUTURA/index.m3u8
+   TVG-ID: (não informado)
+
+4. Canal: FUTURA L1
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://170.83.16.50/FUTURA/index.m3u8
+   TVG-ID: (não informado)
+
+5. Canal: FUTURA L3
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/futura/index.m3u8
+   TVG-ID: (não informado)
+
+6. Canal: FUTURA L3
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/futura/index.m3u8
+   TVG-ID: (não informado)
+
+7. Canal: JAZZ
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+   TVG-ID: (não informado)
+
+8. Canal: JAZZ
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+   TVG-ID: (não informado)
+
+9. Canal: JAZZ 2
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+   TVG-ID: (não informado)
+
+10. Canal: JAZZ 2
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+   TVG-ID: (não informado)
+
+11. Canal: Jovem Pan ( C )
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/308.m3u8
+   TVG-ID: 417187
+
+12. Canal: Jovem Pan ( C )
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://tv.mapfibra.com.br:8555/live/1012/123456/308.m3u8
+   TVG-ID: 417187
+
+13. Canal: Just for Laughs Gags
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
+   TVG-ID: (não informado)
+
+14. Canal: Just for Laughs Gags
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
+   TVG-ID: (não informado)
+
+15. Canal: Masterchef SD
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+   TVG-ID: (não informado)
+
+16. Canal: Masterchef SD
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+   TVG-ID: (não informado)
+
+17. Canal: Shark Tank
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://dad6889f7751402bb70007a5878f0aaf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneSharkTankBrasil/playlist.m3u8
+   TVG-ID: (não informado)
+
+18. Canal: Shark Tank
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://dad6889f7751402bb70007a5878f0aaf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneSharkTankBrasil/playlist.m3u8
+   TVG-ID: (não informado)
+
+19. Canal: Smile
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://rpn.bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/index.m3u8
+   TVG-ID: (não informado)
+
+20. Canal: Smile
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://rpn.bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/index.m3u8
+   TVG-ID: (não informado)
+
+21. Canal: Sony One Shark Tank
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+22. Canal: Sony One Shark Tank
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+   TVG-ID: (não informado)
+
+23. Canal: Stingray Smooth Jazz
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+   TVG-ID: (não informado)
+
+24. Canal: Stingray Smooth Jazz
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+   TVG-ID: (não informado)
+
+25. Canal: TV Brasil FHD
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
+   TVG-ID: (não informado)
+
+26. Canal: TV Brasil FHD
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
+   TVG-ID: (não informado)
+
+27. Canal: TV Brasil L3
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/tv_brasil/index.m3u8
+   TVG-ID: (não informado)
+
+28. Canal: TV Brasil L3
+   Categoria: Variedades
+   Logo: (não informada)
+   Fonte: http://186.219.52.187/tv_brasil/index.m3u8
+   TVG-ID: (não informado)
